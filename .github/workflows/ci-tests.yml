@@ -10,8 +10,10 @@ jobs:
   test:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
-        python-version: [3.10, 3.11, 3.12]
+        # Quote versions to avoid YAML interpreting 3.10 as float 3.1
+        python-version: ['3.10', '3.11', '3.12']
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
