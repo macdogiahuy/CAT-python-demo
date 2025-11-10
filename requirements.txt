@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+pandas
+numpy
+pyodbc
+catsim
+matplotlib
+pytest
