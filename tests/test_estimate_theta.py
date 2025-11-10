@@ -1,5 +1,6 @@
 import ast
 import textwrap
+from pathlib import Path
 from types import SimpleNamespace
 
 import numpy as np
@@ -10,8 +11,16 @@ def _load_estimate_theta_func():
     source and executing it in a minimal namespace to avoid side effects
     (like DB engine creation) that occur when importing the whole module.
     """
-    path = "c:\\Users\\giahuy\\Downloads\\TTS_python\\cat_service_api.py"
-    src = open(path, "r", encoding="utf-8").read()
+    # Resolve repository root relative to this test file
+    repo_root = Path(__file__).resolve().parents[1]
+    candidate = repo_root / "cat_service_api.py"
+    if not candidate.exists():
+        # fallback to current working directory
+        candidate = Path("cat_service_api.py").resolve()
+    if not candidate.exists():
+        raise FileNotFoundError(f"cat_service_api.py not found at {candidate}")
+
+    src = candidate.read_text(encoding="utf-8")
     mod = ast.parse(src)
     func_node = None
     for node in mod.body:
