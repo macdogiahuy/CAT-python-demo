@@ -1,1 +1,5 @@
 run test: .venv\Scripts\python.exe -m pytest -q
+
+python scripts\generate_3pl_responses.py
+
+python eval_items.py --responses data\simulated_responses_3pl.csv --bank data\Java_Course_150_questions.json --out data\eval_java_3pl

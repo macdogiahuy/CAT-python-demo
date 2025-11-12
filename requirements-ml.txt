@@ -1,0 +1,11 @@
+# Optional ML / NLP dependencies for better question generation (transformers, embeddings)
+# These are optional and can be large (especially torch). Install only if you need them.
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+scikit-learn>=1.2.0
+nltk>=3.8.1
+torch>=2.0.0
+faiss-cpu
+
+# If you prefer CPU-only PyTorch builds, install a matching torch from https://pytorch.org
+# Example for Windows CPU-only wheels may be needed depending on your platform.

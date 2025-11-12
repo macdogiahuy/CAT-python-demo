@@ -6,3 +6,7 @@ pyodbc
 catsim
 matplotlib
 pytest
+
+# Optional (heavy) ML / NLP packages for higher-quality question generation and embeddings
+# Install them only if you need transformer-based generators or sentence embeddings:
+#   pip install -r requirements-ml.txt

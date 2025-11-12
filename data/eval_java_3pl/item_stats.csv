@@ -1,0 +1,151 @@
+id,question,p_value,point_biserial,param_a,param_b,param_c,flags
+1,Which keyword is used to declare a constant variable in Java?,0.78,0.3031495844722316,0.8,-1.2,0.2,ok
+2,What is the entry point of a Java program?,0.802,0.2958762247061424,0.9,-1.5,0.18,ok
+3,Which of the following is a primitive data type in Java?,0.742,0.3603113160768854,1.1,-0.8,0.22,ok
+4,What does JVM stand for?,0.812,0.22085837546757434,0.7,-2.0,0.15,ok
+5,Which operator is used for assignment in Java?,0.742,0.3098175600412344,1.0,-1.0,0.25,ok
+6,What is the purpose of the 'new' keyword in Java?,0.674,0.2316089941737388,0.6,-0.9,0.19,ok
+7,Which of the following is NOT an access modifier in Java?,0.72,0.417045525808486,1.2,-0.6,0.21,ok
+8,What is the purpose of a constructor in Java?,0.814,0.25996622478308523,0.85,-1.8,0.17,ok
+9,"Which loop executes at least once, regardless of the condition?",0.73,0.26193311785657775,0.95,-0.75,0.23,ok
+10,What is the extension of a Java source code file?,0.822,0.14589686020929615,0.5,-2.3,0.16,low_discrimination
+11,Which keyword is used to define a constant variable in Java?,0.764,0.24400687170223193,0.8,-1.2,0.18,ok
+12,What is the entry point of a Java program?,0.836,0.27064092989229926,0.9,-1.5,0.22,ok
+13,Which of the following is a primitive data type in Java?,0.73,0.34590999212464657,1.1,-0.8,0.15,ok
+14,Which operator is used for assignment in Java?,0.714,0.26281946398392786,0.7,-1.0,0.2,ok
+15,What does JVM stand for?,0.882,0.19834110725792747,1.0,-2.0,0.25,low_discrimination
+16,Which keyword is used to create an object in Java?,0.698,0.23452470705988315,0.6,-0.9,0.17,ok
+17,What is the purpose of the `System.out.println()` statement?,0.872,0.3045175812950463,1.2,-1.8,0.23,ok
+18,Which of the following is a valid comment in Java?,0.674,0.13030540901742615,0.5,-0.6,0.19,low_discrimination
+19,What is the term for combining data and methods into a single unit?,0.876,0.21197152467575364,0.85,-2.2,0.21,ok
+20,Which access modifier makes a member accessible only within its own class?,0.76,0.3041623597641806,0.95,-1.3,0.16,ok
+21,Which keyword is used to declare a constant variable in Java?,0.76,0.2720947579421268,0.8,-1.2,0.2,ok
+22,What is the purpose of the 'main' method in a Java program?,0.796,0.2633933891293064,0.9,-1.5,0.18,ok
+23,Which data type is used to store whole numbers in Java?,0.744,0.3432818477352055,1.1,-0.8,0.22,ok
+24,What does the 'new' keyword do in Java?,0.728,0.24517105153590957,0.7,-1.0,0.16,ok
+25,Which of the following is a valid comment in Java?,0.888,0.2701269387142829,1.0,-2.0,0.25,ok
+26,What is the purpose of the 'System.out.println()' statement?,0.706,0.19702860674308645,0.6,-0.9,0.19,low_discrimination
+27,Which of the following is an example of a String literal in Java?,0.72,0.32202441403458926,1.2,-0.6,0.23,ok
+28,What is a class in Java?,0.762,0.1227041365943147,0.5,-1.8,0.17,low_discrimination
+29,Which operator is used for assignment in Java?,0.866,0.23935730898930924,0.85,-2.2,0.21,ok
+30,What is the value of 'x' after the following code executes: `int x = 5 + 3 * 2;`?,0.706,0.24161347143477033,0.95,-0.75,0.15,ok
+31,Which keyword is used to declare a constant in Java?,0.726,0.2222072925860843,0.8,-1.2,0.2,ok
+32,What is the entry point of a Java program?,0.81,0.2657840677537494,0.9,-1.5,0.18,ok
+33,Which of the following is a primitive data type in Java?,0.752,0.40555907314461326,1.1,-0.8,0.22,ok
+34,What does JVM stand for?,0.764,0.2175589369274945,0.7,-2.0,0.15,ok
+35,Which operator is used for assignment in Java?,0.776,0.2653080700302743,1.0,-1.0,0.25,ok
+36,Which keyword is used to create an object in Java?,0.714,0.2267407533975697,0.6,-0.9,0.19,ok
+37,What is the purpose of the 'import' statement in Java?,0.87,0.2468918679378655,0.95,-1.7,0.21,ok
+38,Which of the following is NOT an access modifier in Java?,0.706,0.3593352353430715,1.2,-0.6,0.17,ok
+39,What is the extension of a Java source code file?,0.796,0.14905850494261844,0.5,-2.3,0.23,low_discrimination
+40,Which loop executes at least once?,0.742,0.2765698796911803,0.85,-1.1,0.16,ok
+41,Which keyword is used to define a class in Java?,0.802,0.28552583933447995,0.8,-1.5,0.2,ok
+42,What is the entry point of a Java program?,0.844,0.25315650704888976,0.9,-1.8,0.18,ok
+43,Which of the following is a primitive data type in Java?,0.902,0.28725014332743065,1.1,-2.0,0.22,too_easy
+44,What does JVM stand for?,0.684,0.28517322090344566,0.7,-1.2,0.15,ok
+45,Which operator is used for assignment in Java?,0.916,0.20877706657938735,1.0,-2.3,0.23,too_easy
+46,What is the purpose of the `System.out.println()` method?,0.692,0.2131692540930029,0.6,-0.9,0.17,ok
+47,Which keyword is used to create an object of a class?,0.832,0.267831093887281,0.9,-1.6,0.19,ok
+48,What is a package in Java?,0.926,0.2377872001114119,1.2,-2.5,0.25,too_easy
+49,Which of the following is a valid comment in Java?,0.646,0.16324707030118998,0.5,-0.7,0.21,low_discrimination
+50,What is the purpose of the `javac` command?,0.73,0.32324773782139704,0.8,-1.1,0.16,ok
+51,Which of the following is NOT a primitive data type in Java?,0.582,0.4169366508760078,1.2,-0.2,0.15,ok
+52,What is the purpose of the 'static' keyword in Java?,0.502,0.30557897140671175,0.9,0.3,0.12,ok
+53,Which of the following is the correct way to create an instance of a class named 'MyClass'?,0.706,0.4257740267730029,1.5,-0.4,0.18,ok
+54,What is the difference between '==' and '.equals()' in Java when comparing objects?,0.538,0.424203241026017,1.1,0.1,0.11,ok
+55,Which of the following is a valid way to handle exceptions in Java?,0.636,0.43226245849328404,1.3,-0.1,0.16,ok
+56,What is the purpose of the 'super' keyword in Java?,0.5,0.3626115108851376,0.8,0.4,0.13,ok
+57,Which of the following is an example of inheritance in Java?,0.648,0.44601867311590054,1.6,-0.3,0.19,ok
+58,What is the purpose of the 'final' keyword when applied to a variable?,0.598,0.3302345740936468,1.0,0.0,0.14,ok
+59,"Which data structure follows the Last-In, First-Out (LIFO) principle?",0.484,0.4066478228604681,1.4,0.2,0.17,ok
+60,What is the purpose of the `toString()` method in Java?,0.708,0.44463157636489886,1.7,-0.5,0.2,ok
+61,Which of the following is NOT a primitive data type in Java?,0.62,0.38138249816035763,1.2,-0.2,0.15,ok
+62,What is the purpose of the 'static' keyword in Java?,0.482,0.33019146688628015,0.9,0.3,0.12,ok
+63,Which of the following is the correct way to implement an interface in Java?,0.62,0.45576414086179073,1.5,-0.1,0.18,ok
+64,What is the difference between '==' and '.equals()' in Java when comparing objects?,0.456,0.4384595424456954,1.1,0.5,0.11,ok
+65,Which keyword is used to handle exceptions in Java?,0.624,0.30711087622863037,0.85,-0.4,0.19,ok
+66,What is the purpose of the 'super' keyword in Java?,0.54,0.40068948337272203,1.3,0.1,0.14,ok
+67,Which of the following is a valid way to create an ArrayList of Strings in Java?,0.412,0.38574577636706003,1.6,0.8,0.16,ok
+68,What is the primary purpose of the Java Virtual Machine (JVM)?,0.566,0.3013086374748281,1.0,0.0,0.13,ok
+69,Which of the following access modifiers provides the most restrictive access?,0.642,0.38508495482622407,1.4,-0.3,0.17,ok
+70,What is the purpose of garbage collection in Java?,0.484,0.35526703234935375,0.95,0.6,0.2,ok
+71,Which of the following is NOT a characteristic of Java?,0.618,0.3979980140691845,1.2,-0.2,0.15,ok
+72,Which keyword is used to prevent a method from being overridden in a subclass?,0.476,0.470427354604816,1.5,0.3,0.12,ok
+73,What is the purpose of the `try-catch` block in Java?,0.61,0.2508014569018936,0.9,-0.1,0.18,ok
+74,Which of the following data structures is NOT part of the Java Collections Framework?,0.476,0.3589205035535911,1.1,0.5,0.11,ok
+75,What is the role of the `static` keyword in Java?,0.538,0.43539983340089616,1.3,0.1,0.16,ok
+76,Which interface is used to implement custom sorting in Java?,0.47,0.2894316232305123,1.0,0.7,0.19,ok
+77,What is the purpose of the `super` keyword in Java?,0.682,0.4758824763255705,1.6,-0.4,0.14,ok
+78,Which of the following is a checked exception in Java?,0.452,0.29845182324866176,0.8,0.9,0.13,ok
+79,What is the difference between `==` and `.equals()` in Java?,0.626,0.3879453437627262,1.4,-0.3,0.17,ok
+80,Which of the following is the correct way to create a thread in Java?,0.598,0.4660331474306478,1.7,0.0,0.2,ok
+81,Which of the following data structures is best suited for implementing a Last-In-First-Out (LIFO) behavior?,0.63,0.420685373964323,1.2,-0.2,0.15,ok
+82,What is the primary purpose of the 'finally' block in a try-catch-finally statement?,0.478,0.36191449776302465,0.9,0.3,0.12,ok
+83,Which keyword is used to prevent a method from being overridden in a subclass?,0.676,0.4531548636575433,1.5,-0.4,0.18,ok
+84,What is the purpose of the 'transient' keyword in Java?,0.528,0.44324182013814745,1.1,0.1,0.11,ok
+85,Which of the following is NOT a valid access modifier in Java?,0.608,0.4428874214678628,1.3,-0.1,0.17,ok
+86,What is the difference between '==' and '.equals()' in Java when comparing objects?,0.554,0.1660990126243563,0.8,0.5,0.19,low_discrimination
+87,Which interface is the root interface in the Collection hierarchy?,0.644,0.5048068103875135,1.6,-0.3,0.14,ok
+88,What is the purpose of the 'instanceof' operator in Java?,0.52,0.3906234107454178,1.0,0.2,0.16,ok
+89,Which of the following is a checked exception in Java?,0.672,0.4255045229809264,1.4,-0.5,0.13,ok
+90,What is the purpose of the 'super' keyword in Java?,0.6,0.4384823780394459,1.7,0.0,0.2,ok
+91,Which of the following is NOT a valid access modifier in Java?,0.578,0.3808485484212068,1.2,-0.2,0.15,ok
+92,What is the primary purpose of the 'finally' block in a try-catch-finally statement?,0.52,0.3228655150370606,0.9,0.3,0.18,ok
+93,"Which of the following data structures follows the LIFO (Last-In, First-Out) principle?",0.582,0.47259083896614723,1.5,-0.1,0.12,ok
+94,What is the purpose of the 'static' keyword in Java?,0.494,0.42635789182115114,1.1,0.5,0.17,ok
+95,Which of the following is the correct way to create an instance of a class named 'MyClass'?,0.592,0.18123420577818228,0.8,0.1,0.19,low_discrimination
+96,What is the purpose of the 'super' keyword in Java?,0.542,0.42745112923881,1.3,0.0,0.11,ok
+97,Which interface is used to implement custom sorting logic in Java?,0.67,0.4134769834633734,1.6,-0.3,0.14,ok
+98,What is the difference between '==' and '.equals()' when comparing objects in Java?,0.482,0.2677071543980809,1.0,0.7,0.16,ok
+99,Which of the following is an example of method overloading?,0.636,0.38946248039848713,1.4,-0.4,0.13,ok
+100,Which class is the root of the Java class hierarchy?,0.474,0.34573757595429705,0.9,0.9,0.2,ok
+101,"Consider a scenario where you need to implement a thread-safe, high-performance cache in Java. Which concurrent data structure and technique would be most appropriate to minimize contention and maximi",0.13,0.3378911670745617,1.8,2.1,0.05,too_hard
+102,You are designing a system that requires asynchronous processing of tasks with guaranteed delivery and ordering. Which of the following approaches using Java's concurrency utilities would be the most ,0.178,0.2687957713596989,2.2,1.9,0.1,ok
+103,"Given the following code snippet: `List<String> list = Arrays.asList(""a"", ""b"", ""c""); list.stream().peek(System.out::println).map(String::toUpperCase).peek(System.out::println).collect(Collectors.toLis",0.26,0.30097106249574096,1.5,1.5,0.08,ok
+104,"Which of the following statements best describes the difference between Checked and Unchecked exceptions in Java, and what is the recommended approach for handling them in a large-scale application?",0.21,0.23434696687032586,2.0,1.7,0.12,ok
+105,"In the context of Java memory management, what is the primary purpose of the Garbage Collector (GC) and how does it impact application performance in a high-throughput environment?",0.218,0.4123547358401017,1.7,1.3,0.07,ok
+106,You are designing a REST API using Spring Boot. You need to implement a custom exception handler that returns a specific JSON response with an error code and a user-friendly message when a `ResourceNo,0.17,0.15373136724776923,2.3,2.3,0.14,low_discrimination
+107,"Consider the following Java code: `public class Example { public static void main(String[] args) { String s1 = ""abc""; String s2 = new String(""abc""); System.out.println(s1 == s2); System.out.println(s1",0.31,0.40585802989865744,1.9,1.1,0.09,ok
+108,Which of the following is the most accurate description of the Liskov Substitution Principle (LSP) and its importance in object-oriented design?,0.14,0.2367713263738987,1.6,2.0,0.06,too_hard
+109,You are implementing a custom class loader in Java. What are the key considerations and potential pitfalls to avoid when overriding the `loadClass()` method?,0.218,0.263544817909912,2.1,1.6,0.11,ok
+110,"In the context of Java reflection, what are the security implications of using `setAccessible(true)` on a private field and how can you mitigate these risks?",0.172,0.1595910637247904,1.4,2.4,0.13,low_discrimination
+111,"Consider a scenario where you have a multi-threaded application using `ExecutorService`. You submit 100 tasks, but you want to ensure that the application shuts down gracefully even if some tasks thro",0.116,0.22006407704187214,1.8,2.0,0.05,too_hard
+112,"You're designing a highly concurrent data structure in Java. You need to ensure that multiple threads can read and write to different parts of the data structure without blocking each other, while mai",0.176,0.2710698677713122,2.1,1.8,0.1,ok
+113,Consider a scenario where you are using Java's NIO (Non-blocking I/O) for a high-performance network server. You have a `Selector` registered with multiple `SocketChannel`s. What is the most efficient,0.178,0.2145107773812184,1.5,2.2,0.08,ok
+114,"In the context of Java memory management, under what specific circumstances would a `java.lang.OutOfMemoryError: Metaspace` error typically occur?",0.242,0.3444717332489365,2.3,1.5,0.12,ok
+115,You are designing a custom class loader in Java. What is the most important consideration to prevent class loading conflicts and ensure proper class isolation?,0.238,0.39384839234587177,1.9,1.3,0.07,ok
+116,Consider a scenario where you are using Java's reflection API. You want to create a new instance of a class that has a private constructor. Which approach is the correct way to achieve this?,0.164,0.17792863712400628,1.6,2.4,0.09,low_discrimination
+117,You are using Java's Stream API to process a large collection of objects. You need to perform a complex transformation on each object and then filter the results. Which approach provides the best perf,0.292,0.3869576512388941,2.0,1.1,0.11,ok
+118,Which of the following statements best describes the behavior of the `volatile` keyword in Java when applied to a variable?,0.224,0.23159694932688818,1.7,1.6,0.13,ok
+119,You are implementing a custom serialization mechanism in Java. What is the most important consideration to ensure compatibility between different versions of your class?,0.14,0.29661309575240086,2.4,1.9,0.06,too_hard
+120,You are using Java's `CompletableFuture` to compose asynchronous operations. You need to handle exceptions that might occur in any of the stages of the pipeline. Which approach provides the most flexi,0.316,0.3260576341526069,1.3,1.4,0.14,ok
+121,Consider a scenario where you need to implement a custom thread pool executor in Java that prioritizes tasks based on their submission time. Which of the following approaches would be the most efficie,0.1,0.2589363731098092,1.8,2.1,0.05,too_hard
+122,"You are designing a highly concurrent caching system in Java. To minimize contention and maximize throughput, which concurrency control mechanism would be most suitable for managing access to the cach",0.184,0.23053948088809725,2.2,1.8,0.1,ok
+123,"In the context of Java memory management, which of the following statements accurately describes the behavior of the Garbage Collector (GC) concerning weak references and their interaction with differ",0.25,0.36135194859297876,1.5,1.5,0.08,ok
+124,Consider a scenario where you're using Java NIO to build a high-performance network server. You've implemented a `Selector` to multiplex I/O operations. What is the most efficient way to handle 'spuri,0.174,0.3416264470539927,2.0,1.9,0.12,ok
+125,"You are implementing a custom `ClassLoader` in Java to load classes from a specific location. What is the correct order in which a `ClassLoader` should typically attempt to load a class, and why is th",0.12,0.17063903542133887,1.7,2.3,0.07,too_hard;low_discrimination
+126,"In Java, what is the primary difference between using `CompletableFuture.supplyAsync()` and `CompletableFuture.runAsync()` for asynchronous task execution, and when would you choose one over the other",0.204,0.3333989154607318,2.1,1.6,0.09,ok
+127,"You are tasked with optimizing a Java application that performs heavy string manipulation. Which of the following approaches would generally provide the most significant performance improvement, and w",0.198,0.31689313108658396,1.9,1.7,0.11,ok
+128,Consider a scenario where you need to serialize and deserialize a complex Java object graph that contains circular references. Which approach would be most suitable to prevent `StackOverflowError` and,0.098,0.23444003785588138,2.3,2.0,0.06,too_hard
+129,"In the context of Java's `java.util.concurrent` package, what is the key difference between a `CountDownLatch` and a `CyclicBarrier`, and when would you choose one over the other?",0.176,0.13665872999230258,1.6,2.4,0.13,low_discrimination
+130,"You are implementing a custom annotation processor in Java to generate code at compile time. What is the correct way to handle errors and warnings during annotation processing, and why is it important",0.25,0.37656825390220994,1.4,1.3,0.1,ok
+131,Consider a scenario where you need to serialize a complex object graph in Java. You want to ensure that circular dependencies are handled gracefully and that the serialized data is as compact as possi,0.098,0.24511471899783224,1.8,2.1,0.05,too_hard
+132,"You are designing a high-performance, concurrent application using Java. You need to implement a lock-free data structure for a critical section. Which of the following approaches would be most effect",0.19,0.2617886843221516,2.2,1.8,0.1,ok
+133,"In the context of Java memory management, what is the primary purpose of the Garbage Collector (GC) and how does it impact application performance, especially in long-running server applications?",0.246,0.34419934391176477,1.5,1.5,0.08,ok
+134,You are tasked with implementing a custom class loader in Java. What are the key considerations and potential challenges you might encounter when defining the class loading hierarchy and handling clas,0.21,0.4597334311864848,2.0,1.2,0.03,ok
+135,Consider a scenario where you need to implement a custom annotation processor in Java to generate boilerplate code at compile time. What are the essential steps involved in creating and registering th,0.178,0.1483855981482906,1.7,2.3,0.12,low_discrimination
+136,You are designing a RESTful API using Spring Boot. You need to implement robust error handling to provide meaningful error responses to clients. What is the most effective approach to handle exception,0.118,0.3469999000827962,2.4,1.9,0.07,too_hard
+137,"In Java concurrency, what are the key differences between using `ExecutorService` and `ForkJoinPool` for managing threads, and when would you choose one over the other?",0.256,0.37023662498982124,1.3,1.7,0.09,ok
+138,You are developing a Java application that needs to interact with a legacy database system that does not support JDBC. How would you approach connecting to and interacting with this database?,0.06,0.24720937650329372,1.9,2.4,0.02,too_hard
+139,"What are the key differences between Checked Exceptions, Unchecked Exceptions (RuntimeExceptions), and Errors in Java, and how should they be handled differently in application code?",0.366,0.3746025212950522,1.6,1.1,0.15,ok
+140,You are tasked with optimizing the performance of a Java application that is experiencing high CPU utilization. What are some effective techniques for identifying performance bottlenecks and improving,0.188,0.43577393596451325,2.1,1.4,0.04,ok
+141,"Consider a scenario where you need to implement a custom class loader in Java. Which of the following approaches is the MOST robust and least likely to cause class loading conflicts, assuming multiple",0.14,0.38226355696185127,1.8,1.9,0.05,too_hard
+142,You are designing a highly concurrent application that relies heavily on shared mutable state. Which of the following approaches provides the STRONGEST guarantee of thread safety and avoids common con,0.156,0.20875877294809836,2.2,2.3,0.1,ok
+143,Which of the following statements BEST describes the relationship between generics and type erasure in Java?,0.188,0.33204004600515497,1.5,1.7,0.08,ok
+144,Consider a scenario where you need to implement a custom annotation processor in Java. Which of the following steps is CRUCIAL for ensuring that the annotation processor is correctly invoked during co,0.18,0.22418561278101964,2.0,2.1,0.12,ok
+145,Which of the following statements is MOST accurate regarding the use of `CompletableFuture` in Java for asynchronous programming?,0.152,0.2281282240959532,1.9,2.0,0.07,ok
+146,"In the context of Java memory management, what is the PRIMARY purpose of the Garbage Collector (GC)?",0.288,0.37029518979542425,1.3,1.2,0.09,ok
+147,Which of the following BEST describes the 'double-checked locking' pattern and its significance in concurrent programming in Java?,0.158,0.1817205493115369,2.4,2.4,0.14,low_discrimination
+148,You are tasked with optimizing a Java application that performs a large number of string concatenations. Which of the following approaches would generally provide the BEST performance?,0.202,0.3986303081136161,1.6,1.5,0.06,ok
+149,What is the PRIMARY difference between `==` and `.equals()` method in Java when comparing objects?,0.222,0.2928185563742011,1.7,1.6,0.11,ok
+150,"In the context of Java streams, which of the following operations is considered a 'terminal operation'?",0.18,0.2407361812553419,2.1,1.8,0.13,ok

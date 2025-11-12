@@ -1,0 +1,29 @@
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects" which are data structures that contain data, in the form of fields, and code, in the form of procedures.
+
+Encapsulation is the bundling of data with the methods that operate on that data.
+
+Inheritance is the mechanism in OOP by which one class can inherit properties and behavior from another class.
+
+Polymorphism is the ability of different objects to respond, each in its own way, to identical messages (method calls).
+
+An interface in Java is an abstract type used to specify a behavior that classes must implement.
+
+A constructor is a special method used to initialize objects when they are created.
+
+The Java Virtual Machine (JVM) executes Java bytecode and provides a runtime environment.
+
+The `final` keyword in Java prevents a variable from being modified after it has been initialized.
+
+A stack data structure follows Last-In-First-Out (LIFO) principle.
+
+A queue data structure follows First-In-First-Out (FIFO) principle.
+
+Static methods belong to the class rather than any instance of the class.
+
+A checked exception in Java must be either caught or declared in the method signature using the `throws` keyword.
+
+Garbage collection in Java automatically reclaims memory occupied by objects that are no longer reachable.
+
+Thread safety means that code functions correctly when accessed from multiple threads concurrently.
+
+The `synchronized` keyword in Java is used to control access to a method or block by multiple threads.

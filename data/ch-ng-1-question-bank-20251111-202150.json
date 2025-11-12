@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "question": "Nội dung của chương 5 trong giáo trình liên quan đến việc sử dụng những đối tượng nào trong cơ sở dữ liệu?",
+    "options": [
+      "Thủ tục lưu trữ, hàm và trigger",
+      "Xử lý giao tác và bảo mật dữ liệu",
+      "Định nghĩa bảng và kiểu dữ liệu",
+      "Quản lý người dùng và cấp phát quyền"
+    ],
+    "answer": "Thủ tục lưu trữ, hàm và trigger",
+    "difficulty": "Easy",
+    "param_a": 0.964,
+    "param_b": -1.719,
+    "param_c": 0.273
+  },
+  {
+    "id": 2,
+    "question": "Chương cuối cùng, chương 6, của giáo trình giới thiệu đến bạn đọc vấn đề gì liên quan đến SQL?",
+    "options": [
+      "Xử lý giao tác trong SQL",
+      "Tối ưu hóa truy vấn SQL",
+      "Thiết kế cơ sở dữ liệu quan hệ",
+      "Sao lưu và phục hồi dữ liệu"
+    ],
+    "answer": "Xử lý giao tác trong SQL",
+    "difficulty": "Easy",
+    "param_a": 0.7,
+    "param_b": -1.195,
+    "param_c": 0.227
+  },
+  {
+    "id": 3,
+    "question": "Phần phụ lục ở cuối giáo trình đề cập đến những nội dung nào?",
+    "options": [
+      "Cơ sở dữ liệu mẫu và một số hàm thường được sử dụng trong SQL Server 2000",
+      "Các chuẩn SQL quốc tế và lịch sử phát triển của SQL",
+      "Các phương pháp bảo mật cơ sở dữ liệu nâng cao",
+      "Hướng dẫn cài đặt và cấu hình SQL Server"
+    ],
+    "answer": "Các phương pháp bảo mật cơ sở dữ liệu nâng cao",
+    "difficulty": "Easy",
+    "param_a": 0.791,
+    "param_b": -0.8,
+    "param_c": 0.226
+  },
+  {
+    "id": 4,
+    "question": "Giáo trình này chọn hệ quản trị cơ sở dữ liệu nào để sử dụng cho các ví dụ minh hoạ và lời giải bài tập?",
+    "options": [
+      "SQL Server 2000 của hãng Microsoft",
+      "Oracle Database của hãng Oracle",
+      "MySQL của hãng Sun Microsystems",
+      "DB2 của hãng IBM"
+    ],
+    "answer": "SQL Server 2000 của hãng Microsoft",
+    "difficulty": "Medium",
+    "param_a": 1.454,
+    "param_b": 0.717,
+    "param_c": 0.157
+  },
+  {
+    "id": 5,
+    "question": "Sự khác biệt giữa SQL chuẩn do ANSI/ISO đề xuất và SQL được sử dụng trong các hệ quản trị cơ sở dữ liệu thương mại là gì?",
+    "options": [
+      "Các hệ quản trị cơ sở dữ liệu thương mại có thể có một số thay đổi nào đó, dẫn đến sự khác biệt không đáng kể",
+      "SQL chuẩn hoàn toàn không tương thích với SQL của các hệ quản trị thương mại",
+      "SQL chuẩn chỉ dùng cho mục đích học tập, không áp dụng trong thực tế",
+      "SQL của các hệ quản trị thương mại luôn đơn giản và ít chức năng hơn SQL chuẩn"
+    ],
+    "answer": "SQL chuẩn chỉ dùng cho mục đích học tập, không áp dụng trong thực tế",
+    "difficulty": "Medium",
+    "param_a": 1.458,
+    "param_b": 0.764,
+    "param_c": 0.111
+  },
+  {
+    "id": 6,
+    "question": "SQL là viết tắt của cụm từ nào?",
+    "options": [
+      "Structured Query Language",
+      "Standard Question Logic",
+      "System Querying Link",
+      "Sequential Querying Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "Easy",
+    "param_a": 0.614,
+    "param_b": -1.375,
+    "param_c": 0.251
+  },
+  {
+    "id": 7,
+    "question": "SQL được xem là ngôn ngữ chuẩn trong lĩnh vực nào của công nghiệp máy tính?",
+    "options": [
+      "Cơ sở dữ liệu",
+      "Lập trình hướng đối tượng",
+      "Phát triển ứng dụng di động",
+      "Thiết kế giao diện người dùng"
+    ],
+    "answer": "Phát triển ứng dụng di động",
+    "difficulty": "Easy",
+    "param_a": 0.884,
+    "param_b": -1.019,
+    "param_c": 0.235
+  },
+  {
+    "id": 8,
+    "question": "Mục đích ban đầu khi SQL được xây dựng nên là gì?",
+    "options": [
+      "Truy xuất dữ liệu trong các cơ sở dữ liệu",
+      "Định nghĩa cấu trúc cơ sở dữ liệu",
+      "Điều khiển truy cập người dùng",
+      "Đảm bảo toàn vẹn dữ liệu"
+    ],
+    "answer": "Truy xuất dữ liệu trong các cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.148,
+    "param_b": 0.258,
+    "param_c": 0.144
+  },
+  {
+    "id": 9,
+    "question": "Khả năng của SQL hiện nay so với mục đích ban đầu của nó là gì?",
+    "options": [
+      "Vượt xa so với một công cụ truy xuất dữ liệu",
+      "Vẫn chỉ giới hạn ở việc truy xuất dữ liệu",
+      "Không còn được sử dụng cho mục đích truy xuất dữ liệu",
+      "Đã được thay thế hoàn toàn bởi các ngôn ngữ khác"
+    ],
+    "answer": "Vượt xa so với một công cụ truy xuất dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.19,
+    "param_b": 0.208,
+    "param_c": 0.132
+  },
+  {
+    "id": 10,
+    "question": "Chức năng định nghĩa dữ liệu của SQL cung cấp khả năng gì?",
+    "options": [
+      "Định nghĩa các cơ sở dữ liệu, các cấu trúc lưu trữ, tổ chức dữ liệu và mối quan hệ",
+      "Truy xuất, bổ sung, cập nhật và loại bỏ dữ liệu",
+      "Cấp phát và kiểm soát các thao tác của người sử dụng trên dữ liệu",
+      "Đảm bảo tính hợp lệ và chính xác của dữ liệu trước các thao tác cập nhật"
+    ],
+    "answer": "Định nghĩa các cơ sở dữ liệu, các cấu trúc lưu trữ, tổ chức dữ liệu và mối quan hệ",
+    "difficulty": "Medium",
+    "param_a": 1.398,
+    "param_b": -0.095,
+    "param_c": 0.115
+  },
+  {
+    "id": 11,
+    "question": "Chức năng truy xuất và thao tác dữ liệu của SQL cho phép người dùng thực hiện những thao tác nào?",
+    "options": [
+      "Truy xuất, bổ sung, cập nhật và loại bỏ dữ liệu",
+      "Định nghĩa các bảng và cấu trúc cơ sở dữ liệu",
+      "Cấp phát và thu hồi quyền truy cập",
+      "Đảm bảo ràng buộc toàn vẹn"
+    ],
+    "answer": "Truy xuất, bổ sung, cập nhật và loại bỏ dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.137,
+    "param_b": 0.563,
+    "param_c": 0.13
+  },
+  {
+    "id": 12,
+    "question": "SQL được sử dụng để điều khiển truy cập nhằm mục đích gì?",
+    "options": [
+      "Cấp phát và kiểm soát các thao tác của người sử dụng trên dữ liệu, đảm bảo sự an toàn",
+      "Định nghĩa kiểu dữ liệu cho các cột trong bảng",
+      "Tối ưu hóa tốc độ truy xuất dữ liệu",
+      "Phân loại dữ liệu theo các tiêu chí khác nhau"
+    ],
+    "answer": "Tối ưu hóa tốc độ truy xuất dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.22,
+    "param_b": 0.05,
+    "param_c": 0.171
+  },
+  {
+    "id": 13,
+    "question": "SQL đảm bảo toàn vẹn dữ liệu bằng cách nào?",
+    "options": [
+      "Định nghĩa các ràng buộc toàn vẹn trong cơ sở dữ liệu",
+      "Tự động sao lưu dữ liệu theo định kỳ",
+      "Mã hóa tất cả dữ liệu được lưu trữ",
+      "Giới hạn số lượng người dùng có thể truy cập"
+    ],
+    "answer": "Định nghĩa các ràng buộc toàn vẹn trong cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.125,
+    "param_b": -0.066,
+    "param_c": 0.109
+  },
+  {
+    "id": 14,
+    "question": "SQL có phải là một ngôn ngữ lập trình như C, C++, Java không?",
+    "options": [
+      "Không, nó là ngôn ngữ có tính khai báo",
+      "Có, nó là một ngôn ngữ lập trình đa năng",
+      "Chỉ là một phần mở rộng của C++",
+      "Là một ngôn ngữ lập trình cấp thấp"
+    ],
+    "answer": "Không, nó là ngôn ngữ có tính khai báo",
+    "difficulty": "Easy",
+    "param_a": 0.993,
+    "param_b": -1.386,
+    "param_c": 0.289
+  },
+  {
+    "id": 15,
+    "question": "Câu lệnh SQL có thể được nhúng vào trong các ngôn ngữ lập trình nhằm mục đích gì?",
+    "options": [
+      "Xây dựng các ứng dụng tương tác với cơ sở dữ liệu",
+      "Biên dịch mã nguồn thành chương trình thực thi",
+      "Tạo ra các hệ điều hành mới",
+      "Thiết kế giao diện đồ họa người dùng"
+    ],
+    "answer": "Xây dựng các ứng dụng tương tác với cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.052,
+    "param_b": 0.279,
+    "param_c": 0.172
+  },
+  {
+    "id": 16,
+    "question": "So với các ngôn ngữ lập trình quen thuộc như C, C++, Java, SQL có tính chất gì về cách thức mô tả yêu cầu?",
+    "options": [
+      "Là ngôn ngữ có tính khai báo",
+      "Là ngôn ngữ có tính hướng đối tượng",
+      "Là ngôn ngữ có tính thủ tục",
+      "Là ngôn ngữ có tính hợp ngữ"
+    ],
+    "answer": "Là ngôn ngữ có tính khai báo",
+    "difficulty": "Easy",
+    "param_a": 0.747,
+    "param_b": -1.711,
+    "param_c": 0.279
+  },
+  {
+    "id": 17,
+    "question": "Điểm nào làm cho SQL là ngôn ngữ dễ tiếp cận và dễ sử dụng?",
+    "options": [
+      "Người dùng chỉ cần mô tả các yêu cầu mà không cần chỉ ra cách thức thực hiện",
+      "Nó có cú pháp rất phức tạp và nhiều quy tắc đặc biệt",
+      "Nó yêu cầu kiến thức sâu về cấu trúc máy tính",
+      "Nó được tích hợp sẵn trong mọi hệ điều hành"
+    ],
+    "answer": "Người dùng chỉ cần mô tả các yêu cầu mà không cần chỉ ra cách thức thực hiện",
+    "difficulty": "Medium",
+    "param_a": 1.091,
+    "param_b": -0.465,
+    "param_c": 0.143
+  },
+  {
+    "id": 18,
+    "question": "Hệ quản trị cơ sở dữ liệu quan hệ thương mại nào được nhắc đến chọn SQL làm ngôn ngữ cho sản phẩm của mình?",
+    "options": [
+      "Oracle, SQL Server, Informix, DB2",
+      "Microsoft Word, Excel, PowerPoint",
+      "Adobe Photoshop, Illustrator, Premiere",
+      "Linux, Windows, macOS"
+    ],
+    "answer": "Oracle, SQL Server, Informix, DB2",
+    "difficulty": "Easy",
+    "param_a": 0.855,
+    "param_b": -1.924,
+    "param_c": 0.265
+  },
+  {
+    "id": 19,
+    "question": "SQL là một hệ thống ngôn ngữ bao gồm điều gì?",
+    "options": [
+      "Tập các câu lệnh sử dụng để tương tác với cơ sở dữ liệu quan hệ",
+      "Các thuật toán phức tạp để xử lý dữ liệu",
+      "Một tập hợp các giao diện người dùng đồ họa",
+      "Các chuẩn mã hóa dữ liệu độc quyền"
+    ],
+    "answer": "Tập các câu lệnh sử dụng để tương tác với cơ sở dữ liệu quan hệ",
+    "difficulty": "Medium",
+    "param_a": 1.335,
+    "param_b": 0.613,
+    "param_c": 0.105
+  },
+  {
+    "id": 20,
+    "question": "Điều gì thể hiện sự khác biệt cơ bản về tư duy giữa SQL và một ngôn ngữ lập trình hướng thủ tục như C++?",
+    "options": [
+      "SQL tập trung vào \u0027cái gì\u0027 cần thực hiện, trong khi C++ tập trung vào \u0027làm như thế nào\u0027",
+      "SQL được biên dịch, còn C++ được thông dịch",
+      "SQL chỉ hoạt động trên dữ liệu số, C++ hoạt động trên mọi loại dữ liệu",
+      "SQL yêu cầu cài đặt phức tạp hơn C++"
+    ],
+    "answer": "SQL tập trung vào \u0027cái gì\u0027 cần thực hiện, trong khi C++ tập trung vào \u0027làm như thế nào\u0027",
+    "difficulty": "Hard",
+    "param_a": 1.736,
+    "param_b": 1.335,
+    "param_c": 0.052
+  },
+  {
+    "id": 21,
+    "question": "SQL bản thân nó có phải là một hệ quản trị cơ sở dữ liệu không?",
+    "options": [
+      "Không, nó là một phần của hệ quản trị cơ sở dữ liệu",
+      "Có, nó là một hệ quản trị cơ sở dữ liệu đầy đủ chức năng",
+      "Nó là một loại cơ sở dữ liệu không quan hệ",
+      "Nó là một hệ điều hành chuyên dụng cho cơ sở dữ liệu"
+    ],
+    "answer": "Không, nó là một phần của hệ quản trị cơ sở dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.876,
+    "param_b": -1.936,
+    "param_c": 0.267
+  },
+  {
+    "id": 22,
+    "question": "SQL có thể tồn tại độc lập mà không cần một hệ quản trị cơ sở dữ liệu không?",
+    "options": [
+      "Không, nó không thể tồn tại độc lập",
+      "Có, nó có thể chạy độc lập như một ứng dụng",
+      "Chỉ khi được biên dịch sang mã máy",
+      "Chỉ khi được nhúng vào một trình duyệt web"
+    ],
+    "answer": "Không, nó không thể tồn tại độc lập",
+    "difficulty": "Easy",
+    "param_a": 0.959,
+    "param_b": -1.264,
+    "param_c": 0.229
+  },
+  {
+    "id": 23,
+    "question": "Trong các hệ quản trị cơ sở dữ liệu quan hệ, SQL xuất hiện với vai trò chính là gì?",
+    "options": [
+      "Ngôn ngữ và công cụ giao tiếp giữa người sử dụng và hệ quản trị cơ sở dữ liệu",
+      "Một giao diện đồ họa người dùng",
+      "Một trình tối ưu hóa phần cứng",
+      "Một công cụ sao lưu dữ liệu tự động"
+    ],
+    "answer": "Ngôn ngữ và công cụ giao tiếp giữa người sử dụng và hệ quản trị cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.082,
+    "param_b": -0.049,
+    "param_c": 0.124
+  },
+  {
+    "id": 24,
+    "question": "Vai trò \u0027SQL là ngôn ngữ hỏi có tính tương tác\u0027 có nghĩa là gì?",
+    "options": [
+      "Người sử dụng có thể dễ dàng thông qua các trình tiện ích để gửi yêu cầu dưới dạng câu lệnh SQL và nhận kết quả",
+      "SQL có khả năng tự động tạo ra các câu hỏi dựa trên dữ liệu hiện có",
+      "SQL chỉ có thể được sử dụng bởi các chuyên gia lập trình",
+      "SQL hỗ trợ giao tiếp bằng giọng nói với cơ sở dữ liệu"
+    ],
+    "answer": "Người sử dụng có thể dễ dàng thông qua các trình tiện ích để gửi yêu cầu dưới dạng câu lệnh SQL và nhận kết quả",
+    "difficulty": "Medium",
+    "param_a": 1.359,
+    "param_b": -0.254,
+    "param_c": 0.103
+  },
+  {
+    "id": 25,
+    "question": "Với vai trò \u0027SQL là ngôn ngữ lập trình cơ sở dữ liệu\u0027, các lập trình viên làm gì với SQL?",
+    "options": [
+      "Nhúng các câu lệnh SQL vào trong các ngôn ngữ lập trình để xây dựng ứng dụng giao tiếp với CSDL",
+      "Sử dụng SQL để thiết kế các bảng và mối quan hệ giữa chúng",
+      "Viết toàn bộ logic ứng dụng chỉ bằng SQL",
+      "Tối ưu hóa mã nguồn của hệ quản trị cơ sở dữ liệu"
+    ],
+    "answer": "Nhúng các câu lệnh SQL vào trong các ngôn ngữ lập trình để xây dựng ứng dụng giao tiếp với CSDL",
+    "difficulty": "Medium",
+    "param_a": 1.367,
+    "param_b": -0.24,
+    "param_c": 0.124
+  },
+  {
+    "id": 26,
+    "question": "Vai trò \u0027SQL là ngôn ngữ quản trị cơ sở dữ liệu\u0027 cho phép người quản trị làm những công việc gì?",
+    "options": [
+      "Quản lý cơ sở dữ liệu, định nghĩa cấu trúc lưu trữ dữ liệu, điều khiển truy cập",
+      "Chỉ thực hiện các thao tác truy xuất dữ liệu đơn giản",
+      "Thiết kế giao diện người dùng cho các ứng dụng",
+      "Viết các báo cáo tài chính tự động"
+    ],
+    "answer": "Quản lý cơ sở dữ liệu, định nghĩa cấu trúc lưu trữ dữ liệu, điều khiển truy cập",
+    "difficulty": "Medium",
+    "param_a": 1.32,
+    "param_b": -0.02,
+    "param_c": 0.116
+  },
+  {
+    "id": 27,
+    "question": "Trong các hệ thống cơ sở dữ liệu khách/chủ (client/server), SQL được sử dụng như công cụ giao tiếp giữa những thành phần nào?",
+    "options": [
+      "Các trình ứng dụng phía máy khách với máy chủ cơ sở dữ liệu",
+      "Hai máy chủ cơ sở dữ liệu khác nhau",
+      "Người dùng cuối với giao diện đồ họa",
+      "Hệ điều hành với phần cứng"
+    ],
+    "answer": "Người dùng cuối với giao diện đồ họa",
+    "difficulty": "Medium",
+    "param_a": 1.166,
+    "param_b": 0.396,
+    "param_c": 0.102
+  },
+  {
+    "id": 28,
+    "question": "Các máy chủ Web và các máy chủ trên Internet sử dụng SQL với vai trò gì?",
+    "options": [
+      "Ngôn ngữ để tương tác với dữ liệu trong các cơ sở dữ liệu",
+      "Ngôn ngữ để tạo ra các trang web tĩnh",
+      "Ngôn ngữ để quản lý cấu hình mạng",
+      "Ngôn ngữ để xử lý hình ảnh và video"
+    ],
+    "answer": "Ngôn ngữ để tương tác với dữ liệu trong các cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.293,
+    "param_b": -0.191,
+    "param_c": 0.156
+  },
+  {
+    "id": 29,
+    "question": "Đối với các hệ quản trị cơ sở dữ liệu phân tán, SQL được sử dụng như thế nào?",
+    "options": [
+      "Mỗi một hệ thống sử dụng SQL để giao tiếp với các hệ thống khác trên mạng, gửi và nhận các yêu cầu truy xuất dữ liệu",
+      "SQL chỉ được sử dụng để truy xuất dữ liệu cục bộ trên mỗi hệ thống riêng lẻ",
+      "SQL là ngôn ngữ để đồng bộ hóa thời gian giữa các máy chủ phân tán",
+      "SQL không có vai trò trong các hệ thống cơ sở dữ liệu phân tán"
+    ],
+    "answer": "Mỗi một hệ thống sử dụng SQL để giao tiếp với các hệ thống khác trên mạng, gửi và nhận các yêu cầu truy xuất dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.127,
+    "param_b": 0.373,
+    "param_c": 0.116
+  },
+  {
+    "id": 30,
+    "question": "Trong một hệ thống mạng máy tính với nhiều hệ quản trị cơ sở dữ liệu khác nhau, SQL thường được sử dụng như một chuẩn ngôn ngữ để giao tiếp giữa các hệ quản trị cơ sở dữ liệu thông qua vai trò nào?",
+    "options": [
+      "Ngôn ngữ sử dụng cho các cổng giao tiếp cơ sở dữ liệu",
+      "Ngôn ngữ sao lưu và phục hồi dữ liệu",
+      "Ngôn ngữ mã hóa dữ liệu",
+      "Ngôn ngữ quản lý tài nguyên mạng"
+    ],
+    "answer": "Ngôn ngữ sử dụng cho các cổng giao tiếp cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.377,
+    "param_b": -0.009,
+    "param_c": 0.13
+  },
+  {
+    "id": 31,
+    "question": "Phát biểu nào sau đây giải thích tốt nhất lý do SQL không thể tồn tại độc lập mà phải là một phần của HQT CSDL?",
+    "options": [
+      "SQL là một ngôn ngữ giao tiếp và thao tác dữ liệu, không phải một hệ thống quản lý cơ sở dữ liệu hoàn chỉnh tự thân",
+      "SQL là một hệ điều hành phụ thuộc vào các HQT CSDL để khởi động",
+      "SQL chỉ là một tập hợp các thư viện không có khả năng thực thi",
+      "SQL cần một giao diện người dùng đồ họa để có thể hoạt động được"
+    ],
+    "answer": "SQL là một ngôn ngữ giao tiếp và thao tác dữ liệu, không phải một hệ thống quản lý cơ sở dữ liệu hoàn chỉnh tự thân",
+    "difficulty": "Hard",
+    "param_a": 2.018,
+    "param_b": 2.179,
+    "param_c": 0.096
+  },
+  {
+    "id": 32,
+    "question": "Việc người dùng dễ dàng thông qua các trình tiện ích để gửi yêu cầu SQL đến cơ sở dữ liệu là minh họa cho vai trò nào của SQL?",
+    "options": [
+      "SQL là ngôn ngữ hỏi có tính tương tác",
+      "SQL là ngôn ngữ lập trình cơ sở dữ liệu",
+      "SQL là ngôn ngữ quản trị cơ sở dữ liệu",
+      "SQL là ngôn ngữ cơ sở dữ liệu phân tán"
+    ],
+    "answer": "SQL là ngôn ngữ hỏi có tính tương tác",
+    "difficulty": "Medium",
+    "param_a": 1.22,
+    "param_b": 0.349,
+    "param_c": 0.172
+  },
+  {
+    "id": 33,
+    "question": "Để xây dựng các chương trình ứng dụng giao tiếp với cơ sở dữ liệu, lập trình viên sử dụng SQL với vai trò gì?",
+    "options": [
+      "SQL là ngôn ngữ lập trình cơ sở dữ liệu",
+      "SQL là ngôn ngữ truy cập dữ liệu trên Internet",
+      "SQL là ngôn ngữ cho các hệ thống khách/chủ",
+      "SQL là ngôn ngữ hỏi có tính tương tác"
+    ],
+    "answer": "SQL là ngôn ngữ lập trình cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.245,
+    "param_b": -0.197,
+    "param_c": 0.163
+  },
+  {
+    "id": 34,
+    "question": "SQL có vai trò là công cụ giao tiếp giữa người sử dụng và đối tượng nào?",
+    "options": [
+      "Hệ quản trị cơ sở dữ liệu",
+      "Hệ điều hành",
+      "Phần cứng máy tính",
+      "Các ứng dụng văn phòng"
+    ],
+    "answer": "Hệ quản trị cơ sở dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.774,
+    "param_b": -1.745,
+    "param_c": 0.226
+  },
+  {
+    "id": 35,
+    "question": "Vai trò nào của SQL liên quan đến việc định nghĩa các cấu trúc lưu trữ dữ liệu và điều khiển truy cập?",
+    "options": [
+      "SQL là ngôn ngữ quản trị cơ sở dữ liệu",
+      "SQL là ngôn ngữ hỏi có tính tương tác",
+      "SQL là ngôn ngữ truy cập dữ liệu trên Internet",
+      "SQL là ngôn ngữ lập trình cơ sở dữ liệu"
+    ],
+    "answer": "SQL là ngôn ngữ quản trị cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.083,
+    "param_b": -0.228,
+    "param_c": 0.159
+  },
+  {
+    "id": 36,
+    "question": "Mô hình dữ liệu quan hệ được ai đề xuất?",
+    "options": ["Codd", "Bill Gates", "Steve Jobs", "Larry Ellison"],
+    "answer": "Steve Jobs",
+    "difficulty": "Easy",
+    "param_a": 0.817,
+    "param_b": -0.793,
+    "param_c": 0.287
+  },
+  {
+    "id": 37,
+    "question": "Mô hình dữ liệu quan hệ được đề xuất vào năm nào?",
+    "options": ["1970", "1980", "1990", "2000"],
+    "answer": "1970",
+    "difficulty": "Easy",
+    "param_a": 0.841,
+    "param_b": -0.696,
+    "param_c": 0.294
+  },
+  {
+    "id": 38,
+    "question": "Đặc điểm chính của một cơ sở dữ liệu quan hệ là gì?",
+    "options": [
+      "Tất cả dữ liệu được tổ chức trong các bảng có mối quan hệ với nhau",
+      "Dữ liệu được lưu trữ dưới dạng cây thư mục",
+      "Dữ liệu được tổ chức dưới dạng các đối tượng độc lập",
+      "Dữ liệu chỉ có thể truy xuất thông qua các tệp văn bản"
+    ],
+    "answer": "Tất cả dữ liệu được tổ chức trong các bảng có mối quan hệ với nhau",
+    "difficulty": "Easy",
+    "param_a": 0.781,
+    "param_b": -1.561,
+    "param_c": 0.277
+  },
+  {
+    "id": 39,
+    "question": "Trong một bảng của cơ sở dữ liệu quan hệ, mỗi một dòng được gọi là gì?",
+    "options": [
+      "Một bản ghi (bộ)",
+      "Một trường (thuộc tính)",
+      "Một chỉ mục (index)",
+      "Một lược đồ (schema)"
+    ],
+    "answer": "Một bản ghi (bộ)",
+    "difficulty": "Easy",
+    "param_a": 0.845,
+    "param_b": -1.246,
+    "param_c": 0.297
+  },
+  {
+    "id": 40,
+    "question": "Trong một bảng của cơ sở dữ liệu quan hệ, mỗi một cột được gọi là gì?",
+    "options": [
+      "Một trường (thuộc tính)",
+      "Một bản ghi (bộ)",
+      "Một tập hợp (set)",
+      "Một đối tượng (object)"
+    ],
+    "answer": "Một trường (thuộc tính)",
+    "difficulty": "Easy",
+    "param_a": 0.75,
+    "param_b": -1.843,
+    "param_c": 0.28
+  },
+  {
+    "id": 41,
+    "question": "Đối tượng nào được sử dụng để tổ chức và lưu trữ dữ liệu trong cơ sở dữ liệu quan hệ?",
+    "options": [
+      "Bảng (Table)",
+      "Lược đồ (Schema)",
+      "Khung nhìn (View)",
+      "Thủ tục (Procedure)"
+    ],
+    "answer": "Lược đồ (Schema)",
+    "difficulty": "Easy",
+    "param_a": 0.776,
+    "param_b": -1.171,
+    "param_c": 0.235
+  },
+  {
+    "id": 42,
+    "question": "Điều gì xác định duy nhất mỗi bảng trong cơ sở dữ liệu?",
+    "options": [
+      "Tên của bảng",
+      "Số lượng dòng của bảng",
+      "Kích thước tệp của bảng",
+      "Ngày tạo bảng"
+    ],
+    "answer": "Tên của bảng",
+    "difficulty": "Easy",
+    "param_a": 0.791,
+    "param_b": -1.727,
+    "param_c": 0.263
+  },
+  {
+    "id": 43,
+    "question": "Một dòng trong bảng SINHVIEN tương ứng với điều gì?",
+    "options": ["Một sinh viên", "Một môn học", "Một lớp học", "Một khoa"],
+    "answer": "Một sinh viên",
+    "difficulty": "Easy",
+    "param_a": 0.741,
+    "param_b": -1.386,
+    "param_c": 0.284
+  },
+  {
+    "id": 44,
+    "question": "Cột NGAYSINH trong bảng SINHVIEN biểu diễn cho điều gì?",
+    "options": [
+      "Một tính chất của thực thể sinh viên",
+      "Một tên của bảng",
+      "Một kiểu dữ liệu tổng quát",
+      "Một ràng buộc duy nhất"
+    ],
+    "answer": "Một tính chất của thực thể sinh viên",
+    "difficulty": "Easy",
+    "param_a": 0.958,
+    "param_b": -1.682,
+    "param_c": 0.297
+  },
+  {
+    "id": 45,
+    "question": "Cấu trúc của bảng bao gồm yếu tố nào?",
+    "options": [
+      "Tập các cột trong bảng, mỗi cột có tên và kiểu dữ liệu",
+      "Tập các dòng (bản ghi) hiện có trong bảng",
+      "Tên của bảng để xác định duy nhất",
+      "Chỉ mục được tạo trên các cột"
+    ],
+    "answer": "Tập các cột trong bảng, mỗi cột có tên và kiểu dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.304,
+    "param_b": 0.348,
+    "param_c": 0.151
+  },
+  {
+    "id": 46,
+    "question": "Kiểu dữ liệu của mỗi cột trong bảng có vai trò gì?",
+    "options": [
+      "Qui định giá trị dữ liệu có thể được chấp nhận trên cột đó",
+      "Xác định thứ tự lưu trữ dữ liệu trong bảng",
+      "Quy định tên của cột",
+      "Thiết lập mối quan hệ với các bảng khác"
+    ],
+    "answer": "Qui định giá trị dữ liệu có thể được chấp nhận trên cột đó",
+    "difficulty": "Medium",
+    "param_a": 1.292,
+    "param_b": 0.674,
+    "param_c": 0.132
+  },
+  {
+    "id": 47,
+    "question": "Yếu tố nào sau đây KHÔNG phải là một yếu tố liên quan đến mỗi một bảng?",
+    "options": [
+      "Tên người sở hữu cơ sở dữ liệu",
+      "Tên của bảng",
+      "Cấu trúc của bảng",
+      "Dữ liệu của bảng"
+    ],
+    "answer": "Tên người sở hữu cơ sở dữ liệu",
+    "difficulty": "Hard",
+    "param_a": 1.979,
+    "param_b": 2.287,
+    "param_c": 0.091
+  },
+  {
+    "id": 48,
+    "question": "Khoá của bảng là gì?",
+    "options": [
+      "Một hoặc một tập các cột mà giá trị dữ liệu của nó xác định duy nhất một dòng trong một tập các dòng của bảng",
+      "Tên của bảng để xác định duy nhất",
+      "Một thuộc tính bất kỳ trong bảng",
+      "Một phương pháp mã hóa dữ liệu trong bảng"
+    ],
+    "answer": "Một hoặc một tập các cột mà giá trị dữ liệu của nó xác định duy nhất một dòng trong một tập các dòng của bảng",
+    "difficulty": "Easy",
+    "param_a": 0.848,
+    "param_b": -1.094,
+    "param_c": 0.289
+  },
+  {
+    "id": 49,
+    "question": "Trong một cơ sở dữ liệu được thiết kế tốt, điều kiện nào phải được thỏa mãn đối với các dòng dữ liệu trên khoá?",
+    "options": [
+      "Các dòng dữ liệu trong một bảng phải có giá trị khác nhau trên khoá",
+      "Các dòng dữ liệu phải có cùng giá trị trên khoá",
+      "Các dòng dữ liệu phải có giá trị NULL trên khoá",
+      "Các dòng dữ liệu có thể có giá trị trùng lặp trên khoá"
+    ],
+    "answer": "Các dòng dữ liệu phải có giá trị NULL trên khoá",
+    "difficulty": "Easy",
+    "param_a": 0.72,
+    "param_b": -1.622,
+    "param_c": 0.253
+  },
+  {
+    "id": 50,
+    "question": "Vai trò của việc chọn khoá của bảng trong CSDL quan hệ là gì?",
+    "options": [
+      "Quan trọng trong việc thiết kế và cài đặt các cơ sở dữ liệu quan hệ",
+      "Không ảnh hưởng đến hiệu suất của cơ sở dữ liệu",
+      "Chỉ mang tính hình thức, không có chức năng thực tế",
+      "Là bước cuối cùng trong quá trình phát triển cơ sở dữ liệu"
+    ],
+    "answer": "Quan trọng trong việc thiết kế và cài đặt các cơ sở dữ liệu quan hệ",
+    "difficulty": "Medium",
+    "param_a": 1.228,
+    "param_b": -0.446,
+    "param_c": 0.159
+  },
+  {
+    "id": 51,
+    "question": "Một bảng có thể có bao nhiêu tập các cột khác nhau có tính chất của khoá (tức là giá trị của nó xác định duy nhất một dòng dữ liệu trong bảng)?",
+    "options": [
+      "Nhiều tập",
+      "Chỉ một tập duy nhất",
+      "Không quá hai tập",
+      "Tùy thuộc vào kiểu dữ liệu"
+    ],
+    "answer": "Nhiều tập",
+    "difficulty": "Medium",
+    "param_a": 1.354,
+    "param_b": -0.038,
+    "param_c": 0.125
+  },
+  {
+    "id": 52,
+    "question": "Khoá được chọn cho bảng từ nhiều tập các cột có tính chất của khoá được gọi là gì?",
+    "options": [
+      "Khoá chính (primary key)",
+      "Khoá phụ (candidate key)",
+      "Khoá ngoài (foreign key)",
+      "Khoá duy nhất (unique key)"
+    ],
+    "answer": "Khoá chính (primary key)",
+    "difficulty": "Medium",
+    "param_a": 1.157,
+    "param_b": 0.765,
+    "param_c": 0.162
+  },
+  {
+    "id": 53,
+    "question": "Trong trường hợp một bảng có nhiều tập các cột có tính chất của khoá, những khoá còn lại không được chọn làm khoá chính được gọi là gì?",
+    "options": [
+      "Khoá phụ hay là khoá dự tuyển (candidate key/unique key)",
+      "Khoá tổng hợp (composite key)",
+      "Khoá thứ cấp (secondary key)",
+      "Khoá tự động (auto key)"
+    ],
+    "answer": "Khoá phụ hay là khoá dự tuyển (candidate key/unique key)",
+    "difficulty": "Medium",
+    "param_a": 1.455,
+    "param_b": -0.324,
+    "param_c": 0.14
+  },
+  {
+    "id": 54,
+    "question": "Điều gì sẽ xảy ra nếu một cơ sở dữ liệu được thiết kế mà một bảng không có khoá duy nhất?",
+    "options": [
+      "Không thể đảm bảo xác định duy nhất từng dòng dữ liệu trong bảng",
+      "Cơ sở dữ liệu sẽ hoạt động nhanh hơn do không có ràng buộc",
+      "Dữ liệu sẽ tự động được sắp xếp theo thứ tự ngẫu nhiên",
+      "Mỗi dòng dữ liệu sẽ được gán một mã định danh ngẫu nhiên"
+    ],
+    "answer": "Không thể đảm bảo xác định duy nhất từng dòng dữ liệu trong bảng",
+    "difficulty": "Hard",
+    "param_a": 1.516,
+    "param_b": 1.185,
+    "param_c": 0.114
+  },
+  {
+    "id": 55,
+    "question": "Cột MAMONHOC trong bảng MONHOC (Hình 1.2) là một ví dụ về loại khóa nào?",
+    "options": ["Khoá chính", "Khoá ngoài", "Khoá phụ", "Khoá tổng hợp"],
+    "answer": "Khoá chính",
+    "difficulty": "Medium",
+    "param_a": 1.036,
+    "param_b": -0.142,
+    "param_c": 0.164
+  },
+  {
+    "id": 56,
+    "question": "Chức năng của khoá chính trong một bảng là gì?",
+    "options": [
+      "Xác định duy nhất từng dòng dữ liệu và thiết lập mối quan hệ với bảng khác",
+      "Chỉ để sắp xếp thứ tự hiển thị dữ liệu",
+      "Giới hạn quyền truy cập vào dữ liệu trong bảng",
+      "Tự động tạo ra các bản ghi mới khi cần thiết"
+    ],
+    "answer": "Xác định duy nhất từng dòng dữ liệu và thiết lập mối quan hệ với bảng khác",
+    "difficulty": "Hard",
+    "param_a": 2.27,
+    "param_b": 1.482,
+    "param_c": 0.062
+  },
+  {
+    "id": 57,
+    "question": "Các bảng trong một cơ sở dữ liệu có mối quan hệ với nhau như thế nào?",
+    "options": [
+      "Có mối quan hệ mật thiết với nhau về mặt dữ liệu",
+      "Tồn tại độc lập hoàn toàn, không có mối quan hệ",
+      "Chỉ có thể liên kết với nhau qua các tệp văn bản",
+      "Mối quan hệ chỉ mang tính chất thống kê, không có ràng buộc dữ liệu"
+    ],
+    "answer": "Chỉ có thể liên kết với nhau qua các tệp văn bản",
+    "difficulty": "Easy",
+    "param_a": 0.861,
+    "param_b": -1.51,
+    "param_c": 0.263
+  },
+  {
+    "id": 58,
+    "question": "Khái niệm nào trong cơ sở dữ liệu quan hệ được sử dụng để biểu diễn mối quan hệ giữa các bảng dữ liệu?",
+    "options": [
+      "Khoá ngoài (Foreign Key)",
+      "Khoá chính (Primary Key)",
+      "Khoá dự tuyển (Candidate Key)",
+      "Chỉ mục (Index)"
+    ],
+    "answer": "Khoá ngoài (Foreign Key)",
+    "difficulty": "Easy",
+    "param_a": 0.927,
+    "param_b": -1.819,
+    "param_c": 0.287
+  },
+  {
+    "id": 59,
+    "question": "Mối quan hệ giữa các bảng được thể hiện thông qua ràng buộc gì?",
+    "options": [
+      "Giá trị dữ liệu xuất hiện ở bảng này phải có xuất hiện trước trong một bảng khác",
+      "Tên của các bảng phải giống nhau",
+      "Số lượng cột trong các bảng phải bằng nhau",
+      "Các bảng phải được lưu trữ trong cùng một tệp vật lý"
+    ],
+    "answer": "Giá trị dữ liệu xuất hiện ở bảng này phải có xuất hiện trước trong một bảng khác",
+    "difficulty": "Medium",
+    "param_a": 1.041,
+    "param_b": 0.163,
+    "param_c": 0.12
+  },
+  {
+    "id": 60,
+    "question": "Mối quan hệ giữa các bảng trong cơ sở dữ liệu nhằm đảm bảo điều gì?",
+    "options": [
+      "Tính đúng đắn và hợp lệ của dữ liệu trong cơ sở dữ liệu",
+      "Tốc độ truy xuất dữ liệu nhanh nhất",
+      "Khả năng mở rộng của hệ thống",
+      "Tính bảo mật thông tin tuyệt đối"
+    ],
+    "answer": "Tính đúng đắn và hợp lệ của dữ liệu trong cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.488,
+    "param_b": -0.373,
+    "param_c": 0.11
+  },
+  {
+    "id": 61,
+    "question": "Khoá ngoài là gì?",
+    "options": [
+      "Một hay một tập các cột trong một bảng mà giá trị của nó được xác định từ khoá chính của một bảng khác",
+      "Một khoá có thể xác định duy nhất một dòng trong cùng một bảng",
+      "Một cột chứa các giá trị không xác định",
+      "Một chỉ mục được sử dụng để tăng tốc độ tìm kiếm"
+    ],
+    "answer": "Một hay một tập các cột trong một bảng mà giá trị của nó được xác định từ khoá chính của một bảng khác",
+    "difficulty": "Medium",
+    "param_a": 1.365,
+    "param_b": 0.263,
+    "param_c": 0.135
+  },
+  {
+    "id": 62,
+    "question": "Trong ví dụ Hình 1.3, cột MAKHOA của bảng LOP được gọi là gì và tham chiếu đến đâu?",
+    "options": [
+      "Là khoá ngoài của bảng LOP, tham chiếu đến khoá chính MAKHOA của bảng KHOA",
+      "Là khoá chính của bảng LOP, tham chiếu đến khoá ngoài MAKHOA của bảng KHOA",
+      "Là một thuộc tính không liên quan đến bảng KHOA",
+      "Là một chỉ mục được tạo tự động"
+    ],
+    "answer": "Là khoá ngoài của bảng LOP, tham chiếu đến khoá chính MAKHOA của bảng KHOA",
+    "difficulty": "Medium",
+    "param_a": 1.012,
+    "param_b": 0.704,
+    "param_c": 0.13
+  },
+  {
+    "id": 63,
+    "question": "Nếu không có mối quan hệ giữa bảng LOP và KHOA, điều gì có thể xảy ra liên quan đến tính hợp lệ của dữ liệu?",
+    "options": [
+      "Có thể tồn tại một lớp thuộc vào một khoa không có thật",
+      "Dữ liệu trong cả hai bảng sẽ tự động được đồng bộ hóa",
+      "Các thao tác truy xuất dữ liệu sẽ trở nên nhanh hơn",
+      "Tất cả các bản ghi trong LOP sẽ bị xóa"
+    ],
+    "answer": "Các thao tác truy xuất dữ liệu sẽ trở nên nhanh hơn",
+    "difficulty": "Hard",
+    "param_a": 2.186,
+    "param_b": 1.627,
+    "param_c": 0.09
+  },
+  {
+    "id": 64,
+    "question": "Mối quan hệ giữa các bảng trong một cơ sở dữ liệu thể hiện đúng mối quan hệ giữa các đối tượng nào trong thế giới thực?",
+    "options": [
+      "Các thực thể",
+      "Các khái niệm trừu tượng",
+      "Các thuật toán",
+      "Các chương trình máy tính"
+    ],
+    "answer": "Các thuật toán",
+    "difficulty": "Easy",
+    "param_a": 0.937,
+    "param_b": -1.447,
+    "param_c": 0.259
+  },
+  {
+    "id": 65,
+    "question": "Để đảm bảo rằng mọi lớp trong bảng LOP phải thuộc về một khoa hiện có trong bảng KHOA, ta sử dụng khái niệm nào?",
+    "options": ["Khoá ngoài", "Khoá chính", "Chỉ mục duy nhất", "Khung nhìn"],
+    "answer": "Khoá ngoài",
+    "difficulty": "Hard",
+    "param_a": 1.986,
+    "param_b": 1.362,
+    "param_c": 0.097
+  },
+  {
+    "id": 66,
+    "question": "Phát biểu nào sau đây mô tả đúng nhất chức năng của khoá ngoài?",
+    "options": [
+      "Liên kết hai bảng dựa trên giá trị của khoá chính từ một bảng khác",
+      "Đảm bảo mỗi dòng trong bảng là duy nhất",
+      "Sắp xếp dữ liệu theo thứ tự tăng dần",
+      "Ngăn chặn việc sửa đổi dữ liệu trong bảng"
+    ],
+    "answer": "Liên kết hai bảng dựa trên giá trị của khoá chính từ một bảng khác",
+    "difficulty": "Medium",
+    "param_a": 1.401,
+    "param_b": 0.463,
+    "param_c": 0.133
+  },
+  {
+    "id": 67,
+    "question": "Giả sử bảng LOP có một cột MALOP là khoá chính và MAKHOA là khoá ngoài tham chiếu đến bảng KHOA. Nếu một bản ghi trong bảng KHOA bị xóa, điều gì có thể xảy ra nếu không có ràng buộc CASCADE hoặc quy tắc xử lý khác?",
+    "options": [
+      "Các lớp tham chiếu đến khoa đó trong bảng LOP sẽ trở thành \u0027mồ côi\u0027 hoặc không hợp lệ",
+      "Bản ghi trong bảng KHOA sẽ không thể bị xóa được",
+      "Tất cả các lớp trong bảng LOP sẽ tự động thay đổi MAKHOA thành NULL",
+      "Hệ thống sẽ tự động tạo một khoa mới thay thế"
+    ],
+    "answer": "Tất cả các lớp trong bảng LOP sẽ tự động thay đổi MAKHOA thành NULL",
+    "difficulty": "Hard",
+    "param_a": 2.047,
+    "param_b": 2.029,
+    "param_c": 0.112
+  },
+  {
+    "id": 68,
+    "question": "SQL chuẩn bao gồm khoảng bao nhiêu câu lệnh?",
+    "options": [
+      "Khoảng 40 câu lệnh",
+      "Khoảng 100 câu lệnh",
+      "Chỉ 10 câu lệnh chính",
+      "Hơn 200 câu lệnh"
+    ],
+    "answer": "Khoảng 40 câu lệnh",
+    "difficulty": "Easy",
+    "param_a": 0.702,
+    "param_b": -0.745,
+    "param_c": 0.263
+  },
+  {
+    "id": 69,
+    "question": "Đặc điểm của câu lệnh SQL giữa các hệ quản trị cơ sở dữ liệu khác nhau là gì?",
+    "options": [
+      "Mặc dù có cùng dạng và mục đích sử dụng, cú pháp chi tiết có thể khác nhau",
+      "Các câu lệnh SQL hoàn toàn giống nhau trên mọi hệ quản trị cơ sở dữ liệu",
+      "Mỗi hệ quản trị cơ sở dữ liệu có một bộ câu lệnh SQL riêng biệt hoàn toàn",
+      "SQL chỉ được hỗ trợ trên một số hệ quản trị cơ sở dữ liệu nhất định"
+    ],
+    "answer": "Mặc dù có cùng dạng và mục đích sử dụng, cú pháp chi tiết có thể khác nhau",
+    "difficulty": "Medium",
+    "param_a": 1.418,
+    "param_b": 0.687,
+    "param_c": 0.152
+  },
+  {
+    "id": 70,
+    "question": "Cấu trúc chung của một câu lệnh SQL như thế nào?",
+    "options": [
+      "Bắt đầu bởi một từ lệnh (từ khoá chức năng), sau đó là các mệnh đề (bắt đầu bởi một từ khoá)",
+      "Bắt đầu bằng dấu ngoặc đơn, sau đó là các tham số",
+      "Luôn phải có từ khóa \u0027BEGIN\u0027 và \u0027END\u0027",
+      "Là một chuỗi ký tự không có cấu trúc cụ thể"
+    ],
+    "answer": "Bắt đầu bằng dấu ngoặc đơn, sau đó là các tham số",
+    "difficulty": "Easy",
+    "param_a": 0.748,
+    "param_b": -1.284,
+    "param_c": 0.298
+  },
+  {
+    "id": 71,
+    "question": "Trong một câu lệnh SQL, \u0027từ lệnh\u0027 có chức năng gì?",
+    "options": [
+      "Là một từ khoá cho biết chức năng của câu lệnh",
+      "Là một biến để lưu trữ dữ liệu",
+      "Là tên của bảng cần thao tác",
+      "Là điều kiện để lọc dữ liệu"
+    ],
+    "answer": "Là một từ khoá cho biết chức năng của câu lệnh",
+    "difficulty": "Easy",
+    "param_a": 0.825,
+    "param_b": -0.756,
+    "param_c": 0.221
+  },
+  {
+    "id": 72,
+    "question": "Mỗi một mệnh đề trong câu lệnh SQL được bắt đầu bởi yếu tố nào?",
+    "options": [
+      "Một từ khoá (chẳng hạn FROM, WHERE,...)",
+      "Một dấu chấm phẩy (;)",
+      "Một số nguyên",
+      "Một tên cột"
+    ],
+    "answer": "Một từ khoá (chẳng hạn FROM, WHERE,...)",
+    "difficulty": "Easy",
+    "param_a": 0.606,
+    "param_b": -1.94,
+    "param_c": 0.24
+  },
+  {
+    "id": 73,
+    "question": "Câu lệnh SELECT dùng để làm gì?",
+    "options": [
+      "Truy xuất dữ liệu",
+      "Bổ sung dữ liệu",
+      "Xoá dữ liệu",
+      "Tạo bảng"
+    ],
+    "answer": "Truy xuất dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.756,
+    "param_b": -1.195,
+    "param_c": 0.277
+  },
+  {
+    "id": 74,
+    "question": "Câu lệnh INSERT dùng để làm gì?",
+    "options": [
+      "Bổ sung dữ liệu",
+      "Truy xuất dữ liệu",
+      "Cập nhật dữ liệu",
+      "Xoá bảng"
+    ],
+    "answer": "Truy xuất dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.922,
+    "param_b": -0.923,
+    "param_c": 0.295
+  },
+  {
+    "id": 75,
+    "question": "Câu lệnh UPDATE dùng để làm gì?",
+    "options": [
+      "Cập nhật dữ liệu",
+      "Xoá dữ liệu",
+      "Tạo khung nhìn",
+      "Điều khiển truy cập"
+    ],
+    "answer": "Tạo khung nhìn",
+    "difficulty": "Easy",
+    "param_a": 0.812,
+    "param_b": -0.705,
+    "param_c": 0.277
+  },
+  {
+    "id": 76,
+    "question": "Câu lệnh DELETE dùng để làm gì?",
+    "options": [
+      "Xoá dữ liệu",
+      "Sửa đổi bảng",
+      "Tạo chỉ mục",
+      "Uỷ thác giao tác"
+    ],
+    "answer": "Xoá dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.931,
+    "param_b": -1.497,
+    "param_c": 0.259
+  },
+  {
+    "id": 77,
+    "question": "Câu lệnh TRUNCATE dùng để làm gì?",
+    "options": [
+      "Xoá toàn bộ dữ liệu trong bảng",
+      "Xoá một dòng dữ liệu cụ thể",
+      "Cập nhật cấu trúc bảng",
+      "Sao chép dữ liệu giữa các bảng"
+    ],
+    "answer": "Xoá toàn bộ dữ liệu trong bảng",
+    "difficulty": "Medium",
+    "param_a": 1.22,
+    "param_b": -0.399,
+    "param_c": 0.119
+  },
+  {
+    "id": 78,
+    "question": "Câu lệnh CREATE TABLE dùng để làm gì?",
+    "options": ["Tạo bảng", "Xoá bảng", "Sửa đổi bảng", "Tạo lược đồ"],
+    "answer": "Tạo bảng",
+    "difficulty": "Easy",
+    "param_a": 0.759,
+    "param_b": -1.851,
+    "param_c": 0.256
+  },
+  {
+    "id": 79,
+    "question": "Câu lệnh DROP TABLE dùng để làm gì?",
+    "options": ["Xoá bảng", "Tạo bảng", "Sửa đổi bảng", "Tạo khung nhìn"],
+    "answer": "Xoá bảng",
+    "difficulty": "Easy",
+    "param_a": 0.609,
+    "param_b": -0.634,
+    "param_c": 0.264
+  },
+  {
+    "id": 80,
+    "question": "Câu lệnh ALTER TABLE dùng để làm gì?",
+    "options": [
+      "Sửa đổi bảng",
+      "Tạo bảng",
+      "Xoá bảng",
+      "Truy xuất dữ liệu từ bảng"
+    ],
+    "answer": "Sửa đổi bảng",
+    "difficulty": "Easy",
+    "param_a": 0.603,
+    "param_b": -1.043,
+    "param_c": 0.274
+  },
+  {
+    "id": 81,
+    "question": "Câu lệnh CREATE VIEW dùng để làm gì?",
+    "options": [
+      "Tạo khung nhìn",
+      "Xoá khung nhìn",
+      "Sửa đổi khung nhìn",
+      "Tạo thủ tục lưu trữ"
+    ],
+    "answer": "Tạo khung nhìn",
+    "difficulty": "Easy",
+    "param_a": 0.775,
+    "param_b": -1.339,
+    "param_c": 0.298
+  },
+  {
+    "id": 82,
+    "question": "Câu lệnh DROP VIEW dùng để làm gì?",
+    "options": [
+      "Xoá khung nhìn",
+      "Tạo khung nhìn",
+      "Sửa đổi khung nhìn",
+      "Xoá chỉ mục"
+    ],
+    "answer": "Xoá khung nhìn",
+    "difficulty": "Easy",
+    "param_a": 0.792,
+    "param_b": -0.987,
+    "param_c": 0.261
+  },
+  {
+    "id": 83,
+    "question": "Câu lệnh CREATE INDEX dùng để làm gì?",
+    "options": ["Tạo chỉ mục", "Xoá chỉ mục", "Sửa đổi chỉ mục", "Tạo hàm"],
+    "answer": "Tạo chỉ mục",
+    "difficulty": "Easy",
+    "param_a": 0.656,
+    "param_b": -1.404,
+    "param_c": 0.262
+  },
+  {
+    "id": 84,
+    "question": "Câu lệnh DROP INDEX dùng để làm gì?",
+    "options": ["Xoá chỉ mục", "Tạo chỉ mục", "Sửa đổi chỉ mục", "Xoá lược đồ"],
+    "answer": "Xoá chỉ mục",
+    "difficulty": "Easy",
+    "param_a": 0.978,
+    "param_b": -1.559,
+    "param_c": 0.249
+  },
+  {
+    "id": 85,
+    "question": "Câu lệnh CREATE SCHEMA dùng để làm gì?",
+    "options": [
+      "Tạo lược đồ cơ sở dữ liệu",
+      "Xoá lược đồ cơ sở dữ liệu",
+      "Sửa đổi lược đồ cơ sở dữ liệu",
+      "Tạo thủ tục lưu trữ"
+    ],
+    "answer": "Tạo lược đồ cơ sở dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.933,
+    "param_b": -1.846,
+    "param_c": 0.26
+  },
+  {
+    "id": 86,
+    "question": "Câu lệnh DROP SCHEMA dùng để làm gì?",
+    "options": [
+      "Xoá lược đồ cơ sở dữ liệu",
+      "Tạo lược đồ cơ sở dữ liệu",
+      "Sửa đổi lược đồ cơ sở dữ liệu",
+      "Xoá bảng"
+    ],
+    "answer": "Xoá lược đồ cơ sở dữ liệu",
+    "difficulty": "Easy",
+    "param_a": 0.663,
+    "param_b": -0.835,
+    "param_c": 0.3
+  },
+  {
+    "id": 87,
+    "question": "Câu lệnh CREATE PROCEDURE dùng để làm gì?",
+    "options": [
+      "Tạo thủ tục lưu trữ",
+      "Xoá thủ tục lưu trữ",
+      "Sửa đổi thủ tục lưu trữ",
+      "Tạo hàm"
+    ],
+    "answer": "Tạo thủ tục lưu trữ",
+    "difficulty": "Easy",
+    "param_a": 0.842,
+    "param_b": -1.161,
+    "param_c": 0.251
+  },
+  {
+    "id": 88,
+    "question": "Câu lệnh ALTER PROCEDURE dùng để làm gì?",
+    "options": [
+      "Sửa đổi thủ tục lưu trữ",
+      "Tạo thủ tục lưu trữ",
+      "Xoá thủ tục lưu trữ",
+      "Sửa đổi hàm"
+    ],
+    "answer": "Sửa đổi thủ tục lưu trữ",
+    "difficulty": "Easy",
+    "param_a": 0.865,
+    "param_b": -1.199,
+    "param_c": 0.29
+  },
+  {
+    "id": 89,
+    "question": "Câu lệnh DROP PROCEDURE dùng để làm gì?",
+    "options": [
+      "Xoá thủ tục lưu trữ",
+      "Tạo thủ tục lưu trữ",
+      "Sửa đổi thủ tục lưu trữ",
+      "Xoá hàm"
+    ],
+    "answer": "Xoá thủ tục lưu trữ",
+    "difficulty": "Easy",
+    "param_a": 0.901,
+    "param_b": -1.783,
+    "param_c": 0.238
+  },
+  {
+    "id": 90,
+    "question": "Câu lệnh CREATE FUNCTION dùng để làm gì?",
+    "options": [
+      "Tạo hàm (do người sử dụng định nghĩa)",
+      "Xoá hàm",
+      "Sửa đổi hàm",
+      "Tạo trigger"
+    ],
+    "answer": "Tạo hàm (do người sử dụng định nghĩa)",
+    "difficulty": "Easy",
+    "param_a": 0.876,
+    "param_b": -0.722,
+    "param_c": 0.281
+  },
+  {
+    "id": 91,
+    "question": "Câu lệnh ALTER FUNCTION dùng để làm gì?",
+    "options": ["Sửa đổi hàm", "Tạo hàm", "Xoá hàm", "Sửa đổi trigger"],
+    "answer": "Sửa đổi hàm",
+    "difficulty": "Easy",
+    "param_a": 0.959,
+    "param_b": -1.133,
+    "param_c": 0.242
+  },
+  {
+    "id": 92,
+    "question": "Câu lệnh DROP FUNCTION dùng để làm gì?",
+    "options": ["Xoá hàm", "Tạo hàm", "Sửa đổi hàm", "Xoá trigger"],
+    "answer": "Xoá hàm",
+    "difficulty": "Easy",
+    "param_a": 0.758,
+    "param_b": -1.108,
+    "param_c": 0.276
+  },
+  {
+    "id": 93,
+    "question": "Câu lệnh CREATE TRIGGER dùng để làm gì?",
+    "options": [
+      "Tạo trigger",
+      "Xoá trigger",
+      "Sửa đổi trigger",
+      "Tạo thủ tục lưu trữ"
+    ],
+    "answer": "Tạo trigger",
+    "difficulty": "Easy",
+    "param_a": 0.799,
+    "param_b": -0.796,
+    "param_c": 0.22
+  },
+  {
+    "id": 94,
+    "question": "Câu lệnh ALTER TRIGGER dùng để làm gì?",
+    "options": ["Sửa đổi trigger", "Tạo trigger", "Xoá trigger", "Sửa đổi hàm"],
+    "answer": "Sửa đổi trigger",
+    "difficulty": "Easy",
+    "param_a": 0.753,
+    "param_b": -1.872,
+    "param_c": 0.224
+  },
+  {
+    "id": 95,
+    "question": "Câu lệnh DROP TRIGGER dùng để làm gì?",
+    "options": [
+      "Xoá trigger",
+      "Tạo trigger",
+      "Sửa đổi trigger",
+      "Xoá thủ tục lưu trữ"
+    ],
+    "answer": "Xoá trigger",
+    "difficulty": "Easy",
+    "param_a": 0.911,
+    "param_b": -1.025,
+    "param_c": 0.233
+  },
+  {
+    "id": 96,
+    "question": "Câu lệnh GRANT dùng để làm gì?",
+    "options": [
+      "Cấp phát quyền cho người sử dụng",
+      "Thu hồi quyền từ người sử dụng",
+      "Kiểm tra quyền của người sử dụng",
+      "Thay đổi mật khẩu người sử dụng"
+    ],
+    "answer": "Kiểm tra quyền của người sử dụng",
+    "difficulty": "Medium",
+    "param_a": 1.499,
+    "param_b": -0.284,
+    "param_c": 0.155
+  },
+  {
+    "id": 97,
+    "question": "Câu lệnh REVOKE dùng để làm gì?",
+    "options": [
+      "Thu hồi quyền từ người sử dụng",
+      "Cấp phát quyền cho người sử dụng",
+      "Kiểm tra quyền của người sử dụng",
+      "Đăng nhập vào hệ thống"
+    ],
+    "answer": "Thu hồi quyền từ người sử dụng",
+    "difficulty": "Medium",
+    "param_a": 1.237,
+    "param_b": 0.619,
+    "param_c": 0.123
+  },
+  {
+    "id": 98,
+    "question": "Câu lệnh COMMIT dùng để làm gì trong quản lý giao tác?",
+    "options": [
+      "Uỷ thác (kết thúc thành công) giao tác",
+      "Quay lui giao tác",
+      "Đánh dấu một điểm trong giao tác",
+      "Bắt đầu một giao tác mới"
+    ],
+    "answer": "Uỷ thác (kết thúc thành công) giao tác",
+    "difficulty": "Medium",
+    "param_a": 1.213,
+    "param_b": 0.464,
+    "param_c": 0.14
+  },
+  {
+    "id": 99,
+    "question": "Câu lệnh ROLLBACK dùng để làm gì trong quản lý giao tác?",
+    "options": [
+      "Quay lui giao tác",
+      "Uỷ thác giao tác",
+      "Đánh dấu một điểm trong giao tác",
+      "Kết thúc một giao tác lỗi"
+    ],
+    "answer": "Quay lui giao tác",
+    "difficulty": "Medium",
+    "param_a": 1.131,
+    "param_b": 0.674,
+    "param_c": 0.146
+  },
+  {
+    "id": 100,
+    "question": "Câu lệnh SAVE TRANSACTION dùng để làm gì trong quản lý giao tác?",
+    "options": [
+      "Đánh dấu một điểm trong giao tác",
+      "Uỷ thác giao tác",
+      "Quay lui toàn bộ giao tác",
+      "Bắt đầu một giao tác mới"
+    ],
+    "answer": "Đánh dấu một điểm trong giao tác",
+    "difficulty": "Medium",
+    "param_a": 1.027,
+    "param_b": 0.266,
+    "param_c": 0.142
+  },
+  {
+    "id": 101,
+    "question": "Câu lệnh DECLARE dùng để làm gì trong lập trình SQL?",
+    "options": [
+      "Khai báo biến hoặc định nghĩa con trỏ",
+      "Mở một con trỏ",
+      "Đọc một dòng trong kết quả truy vấn",
+      "Thực thi một câu lệnh SQL"
+    ],
+    "answer": "Khai báo biến hoặc định nghĩa con trỏ",
+    "difficulty": "Medium",
+    "param_a": 1.199,
+    "param_b": 0.42,
+    "param_c": 0.107
+  },
+  {
+    "id": 102,
+    "question": "Câu lệnh OPEN dùng để làm gì với con trỏ?",
+    "options": [
+      "Mở một con trỏ để truy xuất kết quả truy vấn",
+      "Khai báo một con trỏ",
+      "Đóng một con trỏ",
+      "Đọc dữ liệu từ con trỏ"
+    ],
+    "answer": "Mở một con trỏ để truy xuất kết quả truy vấn",
+    "difficulty": "Medium",
+    "param_a": 1.442,
+    "param_b": 0.414,
+    "param_c": 0.174
+  },
+  {
+    "id": 103,
+    "question": "Câu lệnh FETCH dùng để làm gì với con trỏ?",
+    "options": [
+      "Đọc một dòng trong kết quả truy vấn (sử dụng con trỏ)",
+      "Mở một con trỏ",
+      "Đóng một con trỏ",
+      "Xóa một con trỏ"
+    ],
+    "answer": "Đọc một dòng trong kết quả truy vấn (sử dụng con trỏ)",
+    "difficulty": "Medium",
+    "param_a": 1.127,
+    "param_b": 0.342,
+    "param_c": 0.12
+  },
+  {
+    "id": 104,
+    "question": "Câu lệnh CLOSE dùng để làm gì với con trỏ?",
+    "options": [
+      "Đóng một con trỏ",
+      "Mở một con trỏ",
+      "Đọc dữ liệu từ con trỏ",
+      "Khai báo một con trỏ"
+    ],
+    "answer": "Đóng một con trỏ",
+    "difficulty": "Medium",
+    "param_a": 1.415,
+    "param_b": 0.547,
+    "param_c": 0.134
+  },
+  {
+    "id": 105,
+    "question": "Câu lệnh EXECUTE dùng để làm gì?",
+    "options": [
+      "Thực thi một câu lệnh SQL",
+      "Khai báo biến",
+      "Định nghĩa con trỏ",
+      "Uỷ thác giao tác"
+    ],
+    "answer": "Thực thi một câu lệnh SQL",
+    "difficulty": "Medium",
+    "param_a": 1.451,
+    "param_b": -0.456,
+    "param_c": 0.151
+  },
+  {
+    "id": 106,
+    "question": "Các câu lệnh SELECT, INSERT, UPDATE, DELETE, TRUNCATE thuộc nhóm chức năng nào?",
+    "options": [
+      "Thao tác dữ liệu (DML)",
+      "Định nghĩa dữ liệu (DDL)",
+      "Điều khiển truy cập (DCL)",
+      "Quản lý giao tác"
+    ],
+    "answer": "Thao tác dữ liệu (DML)",
+    "difficulty": "Medium",
+    "param_a": 1.284,
+    "param_b": 0.125,
+    "param_c": 0.116
+  },
+  {
+    "id": 107,
+    "question": "Các câu lệnh CREATE TABLE, DROP TABLE, ALTER TABLE thuộc nhóm chức năng nào?",
+    "options": [
+      "Định nghĩa dữ liệu (DDL)",
+      "Thao tác dữ liệu (DML)",
+      "Điều khiển truy cập (DCL)",
+      "Quản lý giao tác"
+    ],
+    "answer": "Định nghĩa dữ liệu (DDL)",
+    "difficulty": "Medium",
+    "param_a": 1.419,
+    "param_b": 0.321,
+    "param_c": 0.102
+  },
+  {
+    "id": 108,
+    "question": "Các câu lệnh GRANT, REVOKE thuộc nhóm chức năng nào?",
+    "options": [
+      "Điều khiển truy cập (DCL)",
+      "Định nghĩa dữ liệu (DDL)",
+      "Thao tác dữ liệu (DML)",
+      "Quản lý giao tác"
+    ],
+    "answer": "Điều khiển truy cập (DCL)",
+    "difficulty": "Medium",
+    "param_a": 1.051,
+    "param_b": 0.362,
+    "param_c": 0.113
+  },
+  {
+    "id": 109,
+    "question": "Các câu lệnh COMMIT, ROLLBACK, SAVE TRANSACTION thuộc nhóm chức năng nào?",
+    "options": [
+      "Quản lý giao tác",
+      "Thao tác dữ liệu (DML)",
+      "Định nghĩa dữ liệu (DDL)",
+      "Điều khiển truy cập (DCL)"
+    ],
+    "answer": "Quản lý giao tác",
+    "difficulty": "Medium",
+    "param_a": 1.277,
+    "param_b": -0.182,
+    "param_c": 0.177
+  },
+  {
+    "id": 110,
+    "question": "Các câu lệnh DECLARE, OPEN, FETCH, CLOSE, EXECUTE thuộc nhóm chức năng nào?",
+    "options": [
+      "Lập trình",
+      "Quản lý giao tác",
+      "Điều khiển truy cập (DCL)",
+      "Định nghĩa dữ liệu (DDL)"
+    ],
+    "answer": "Lập trình",
+    "difficulty": "Medium",
+    "param_a": 1.102,
+    "param_b": -0.371,
+    "param_c": 0.17
+  },
+  {
+    "id": 111,
+    "question": "Điểm khác biệt cơ bản giữa một \u0027từ lệnh\u0027 và một \u0027mệnh đề\u0027 trong cấu trúc câu lệnh SQL là gì?",
+    "options": [
+      "Từ lệnh cho biết chức năng chính của câu lệnh, còn mệnh đề chỉ định các điều kiện hoặc đối tượng mà câu lệnh tác động lên",
+      "Từ lệnh luôn đứng sau mệnh đề, mệnh đề đứng trước",
+      "Từ lệnh là một biến, mệnh đề là một hằng số",
+      "Từ lệnh chỉ dùng trong DDL, mệnh đề chỉ dùng trong DML"
+    ],
+    "answer": "Từ lệnh cho biết chức năng chính của câu lệnh, còn mệnh đề chỉ định các điều kiện hoặc đối tượng mà câu lệnh tác động lên",
+    "difficulty": "Hard",
+    "param_a": 2.322,
+    "param_b": 0.98,
+    "param_c": 0.116
+  },
+  {
+    "id": 112,
+    "question": "Trong ví dụ `SELECT masv,hodem,ten FROM sinhvien WHERE malop\u003d’C24102’`, mệnh đề `FROM sinhvien` có chức năng gì?",
+    "options": [
+      "Chỉ định tên của bảng cần truy xuất dữ liệu",
+      "Chỉ định các cột cần hiển thị",
+      "Chỉ định điều kiện lọc dữ liệu",
+      "Chỉ định cách sắp xếp kết quả"
+    ],
+    "answer": "Chỉ định điều kiện lọc dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.006,
+    "param_b": 0.41,
+    "param_c": 0.107
+  },
+  {
+    "id": 113,
+    "question": "Trong câu lệnh `SELECT`, mệnh đề `WHERE` có chức năng gì?",
+    "options": [
+      "Chỉ định điều kiện truy vấn dữ liệu",
+      "Chỉ định các cột cần hiển thị",
+      "Chỉ định tên của bảng nguồn",
+      "Chỉ định cách nhóm các hàng dữ liệu"
+    ],
+    "answer": "Chỉ định tên của bảng nguồn",
+    "difficulty": "Medium",
+    "param_a": 1.199,
+    "param_b": 0.483,
+    "param_c": 0.144
+  },
+  {
+    "id": 114,
+    "question": "Tên của các đối tượng trong cơ sở dữ liệu dựa trên SQL có đặc điểm gì về sự duy nhất?",
+    "options": [
+      "Là duy nhất trong mỗi cơ sở dữ liệu",
+      "Phải là duy nhất trên toàn bộ hệ thống",
+      "Không yêu cầu duy nhất, có thể trùng lặp",
+      "Chỉ cần duy nhất trong phạm vi một bảng"
+    ],
+    "answer": "Là duy nhất trong mỗi cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.009,
+    "param_b": 0.638,
+    "param_c": 0.127
+  },
+  {
+    "id": 115,
+    "question": "Hai loại tên nào được sử dụng nhiều nhất trong các truy vấn SQL và được xem là nền tảng trong cơ sở dữ liệu quan hệ?",
+    "options": [
+      "Tên bảng và tên cột",
+      "Tên người dùng và tên mật khẩu",
+      "Tên tệp và tên thư mục",
+      "Tên chương trình và tên hàm"
+    ],
+    "answer": "Tên bảng và tên cột",
+    "difficulty": "Medium",
+    "param_a": 1.028,
+    "param_b": 0.311,
+    "param_c": 0.119
+  },
+  {
+    "id": 116,
+    "question": "Khi muốn chỉ định một bảng do người dùng khác sở hữu trong câu lệnh SQL, cú pháp là gì?",
+    "options": [
+      "tên_người_sở_hữu.tên_bảng",
+      "tên_bảng.tên_người_sở_hữu",
+      "tên_người_sở_hữu + tên_bảng",
+      "tên_bảng OF tên_người_sở_hữu"
+    ],
+    "answer": "tên_người_sở_hữu.tên_bảng",
+    "difficulty": "Medium",
+    "param_a": 1.116,
+    "param_b": -0.425,
+    "param_c": 0.157
+  },
+  {
+    "id": 117,
+    "question": "Trong trường hợp nào thì bắt buộc phải chỉ định tên bảng trước tên cột trong câu lệnh SQL?",
+    "options": [
+      "Nếu trong câu lệnh có liên quan đến hai cột trở lên có cùng tên trong các bảng khác nhau",
+      "Luôn luôn phải chỉ định tên bảng trước tên cột",
+      "Khi tên cột quá dài",
+      "Khi tên bảng quá ngắn"
+    ],
+    "answer": "Nếu trong câu lệnh có liên quan đến hai cột trở lên có cùng tên trong các bảng khác nhau",
+    "difficulty": "Medium",
+    "param_a": 1.445,
+    "param_b": -0.09,
+    "param_c": 0.157
+  },
+  {
+    "id": 118,
+    "question": "Dấu chấm được sử dụng để phân cách giữa tên người sở hữu và tên bảng, cũng như giữa tên bảng và tên cột. Phát biểu này là đúng hay sai?",
+    "options": [
+      "Đúng",
+      "Sai",
+      "Chỉ đúng cho tên người sở hữu và tên bảng",
+      "Chỉ đúng cho tên bảng và tên cột"
+    ],
+    "answer": "Đúng",
+    "difficulty": "Medium",
+    "param_a": 1.176,
+    "param_b": -0.057,
+    "param_c": 0.151
+  },
+  {
+    "id": 119,
+    "question": "Ngoài bảng, những đối tượng cơ sở dữ liệu nào khác cũng có thể sử dụng quy tắc đặt tên tương tự như `tên_người_sở_hữu.tên_đối_tượng`?",
+    "options": [
+      "Khung nhìn, thủ tục, hàm",
+      "Hệ điều hành, trình duyệt web",
+      "Ổ đĩa cứng, bộ nhớ RAM",
+      "Chuột, bàn phím"
+    ],
+    "answer": "Khung nhìn, thủ tục, hàm",
+    "difficulty": "Medium",
+    "param_a": 1.2,
+    "param_b": -0.049,
+    "param_c": 0.104
+  },
+  {
+    "id": 120,
+    "question": "Tại sao hệ quản trị cơ sở dữ liệu lại cho phép những người dùng khác nhau tạo ra những bảng trùng tên với nhau mà không gây ra xung đột?",
+    "options": [
+      "Vì tên bảng được phân giải dựa trên ngữ cảnh sở hữu của người dùng (schema)",
+      "Vì hệ thống tự động đổi tên các bảng trùng lặp",
+      "Vì chỉ có một người dùng duy nhất được phép tạo bảng",
+      "Vì các bảng trùng tên sẽ tự động bị xóa"
+    ],
+    "answer": "Vì tên bảng được phân giải dựa trên ngữ cảnh sở hữu của người dùng (schema)",
+    "difficulty": "Hard",
+    "param_a": 2.322,
+    "param_b": 1.866,
+    "param_c": 0.052
+  },
+  {
+    "id": 121,
+    "question": "Trong câu lệnh `SELECT masv,hodem,ten,sinhvien.malop,tenlop FROM dbo.sinhvien,dbo.lop`, `dbo` có ý nghĩa gì?",
+    "options": [
+      "Là tên của người sở hữu (schema) của bảng",
+      "Là một từ khóa chỉ định cơ sở dữ liệu mặc định",
+      "Là một loại kiểu dữ liệu",
+      "Là một tham số tùy chọn"
+    ],
+    "answer": "Là tên của người sở hữu (schema) của bảng",
+    "difficulty": "Medium",
+    "param_a": 1.386,
+    "param_b": 0.286,
+    "param_c": 0.144
+  },
+  {
+    "id": 122,
+    "question": "Điều gì có thể xảy ra nếu trong một câu lệnh SQL, hai bảng được liên kết có các cột trùng tên và các cột đó không được chỉ định rõ ràng bằng tên bảng?",
+    "options": [
+      "Hệ thống sẽ báo lỗi hoặc không biết cột đó thuộc bảng nào",
+      "Hệ thống sẽ tự động chọn cột từ bảng đầu tiên",
+      "Hệ thống sẽ tự động đổi tên các cột để tránh trùng lặp",
+      "Hệ thống sẽ hiển thị dữ liệu từ cả hai cột"
+    ],
+    "answer": "Hệ thống sẽ báo lỗi hoặc không biết cột đó thuộc bảng nào",
+    "difficulty": "Hard",
+    "param_a": 2.336,
+    "param_b": 1.395,
+    "param_c": 0.1
+  },
+  {
+    "id": 123,
+    "question": "Khi một người dùng chỉ định tên một bảng trong câu lệnh SQL mà không có tiền tố `tên_người_sở_hữu`, hệ quản trị CSDL sẽ hiểu đó là bảng nào?",
+    "options": [
+      "Bảng do người dùng đó sở hữu",
+      "Bảng đầu tiên trong cơ sở dữ liệu",
+      "Bảng được tạo gần đây nhất",
+      "Bảng có tên giống nhất trong số các bảng công khai"
+    ],
+    "answer": "Bảng đầu tiên trong cơ sở dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.131,
+    "param_b": -0.259,
+    "param_c": 0.178
+  },
+  {
+    "id": 124,
+    "question": "Chuẩn ANSI/ISO SQL cung cấp gì về kiểu dữ liệu?",
+    "options": [
+      "Các kiểu dữ liệu khác nhau để sử dụng trong CSDL dựa trên SQL và trong ngôn ngữ SQL",
+      "Chỉ một kiểu dữ liệu chung cho tất cả các loại thông tin",
+      "Các hàm và thủ tục để thao tác với dữ liệu",
+      "Các quy tắc về bảo mật dữ liệu"
+    ],
+    "answer": "Các hàm và thủ tục để thao tác với dữ liệu",
+    "difficulty": "Medium",
+    "param_a": 1.362,
+    "param_b": 0.309,
+    "param_c": 0.17
+  },
+  {
+    "id": 125,
+    "question": "Sự khác biệt về kiểu dữ liệu giữa chuẩn ANSI/ISO SQL và các hệ quản trị cơ sở dữ liệu thương mại hiện nay là gì?",
+    "options": [
+      "Các hệ quản trị thương mại có thể sử dụng các dạng dữ liệu khác nhau dựa trên cơ sở chuẩn",
+      "Các hệ quản trị thương mại hoàn toàn không tuân thủ chuẩn ANSI/ISO",
+      "Chuẩn ANSI/ISO chỉ định một kiểu dữ liệu duy nhất cho mọi hệ thống",
+      "Chỉ có các hệ quản trị mã nguồn mở mới tuân thủ chuẩn ANSI/ISO"
+    ],
+    "answer": "Chuẩn ANSI/ISO chỉ định một kiểu dữ liệu duy nhất cho mọi hệ thống",
+    "difficulty": "Medium",
+    "param_a": 1.331,
+    "param_b": -0.403,
+    "param_c": 0.118
+  },
+  {
+    "id": 126,
+    "question": "Kiểu dữ liệu CHAR(n) dùng để lưu trữ loại chuỗi nào?",
+    "options": [
+      "Kiểu chuỗi với độ dài cố định",
+      "Kiểu chuỗi với độ dài chính xác",
+      "Kiểu chuỗi hỗ trợ UNICODE",
+      "Kiểu chuỗi lớn hơn 8000 ký tự"
+    ],
+    "answer": "Kiểu chuỗi với độ dài cố định",
+    "difficulty": "Medium",
+    "param_a": 1.341,
+    "param_b": -0.025,
+    "param_c": 0.133
+  },
+  {
+    "id": 127,
+    "question": "Kiểu dữ liệu VARCHAR(n) dùng để lưu trữ loại chuỗi nào?",
+    "options": [
+      "Kiểu chuỗi với độ dài chính xác",
+      "Kiểu chuỗi với độ dài cố định",
+      "Kiểu chuỗi không hỗ trợ UNICODE",
+      "Kiểu chuỗi có kích thước tối đa 255 ký tự"
+    ],
+    "answer": "Kiểu chuỗi với độ dài chính xác",
+    "difficulty": "Medium",
+    "param_a": 1.312,
+    "param_b": 0.152,
+    "param_c": 0.134
+  },
+  {
+    "id": 128,
+    "question": "Điểm khác biệt chính giữa NCHAR(n) và CHAR(n) là gì?",
+    "options": [
+      "NCHAR(n) hỗ trợ UNICODE, còn CHAR(n) thì không",
+      "NCHAR(n) có độ dài biến đổi, CHAR(n) có độ dài cố định",
+      "NCHAR(n) chỉ lưu trữ số, CHAR(n) lưu trữ ký tự",
+      "NCHAR(n) có kích thước tối đa nhỏ hơn CHAR(n)"
+    ],
+    "answer": "NCHAR(n) hỗ trợ UNICODE, còn CHAR(n) thì không",
+    "difficulty": "Medium",
+    "param_a": 1.061,
+    "param_b": 0.498,
+    "param_c": 0.169
+  },
+  {
+    "id": 129,
+    "question": "Điểm khác biệt chính giữa NVARCHAR(n) và VARCHAR(n) là gì?",
+    "options": [
+      "NVARCHAR(n) hỗ trợ UNICODE, còn VARCHAR(n) thì không",
+      "NVARCHAR(n) có độ dài cố định, VARCHAR(n) có độ dài biến đổi",
+      "NVARCHAR(n) chỉ lưu trữ dữ liệu nhị phân, VARCHAR(n) lưu trữ chuỗi",
+      "NVARCHAR(n) có kích thước tối đa lớn hơn VARCHAR(n)"
+    ],
+    "answer": "NVARCHAR(n) hỗ trợ UNICODE, còn VARCHAR(n) thì không",
+    "difficulty": "Hard",
+    "param_a": 1.647,
+    "param_b": 1.157,
+    "param_c": 0.099
+  },
+  {
+    "id": 130,
+    "question": "Phạm vi giá trị của kiểu INTEGER là từ đâu đến đâu?",
+    "options": [
+      "Từ -2^31 đến 2^31 - 1",
+      "Từ 0 đến 255",
+      "Từ -2^15 đến 2^15 - 1",
+      "Từ -2^63 đến 2^63 - 1"
+    ],
+    "answer": "Từ -2^31 đến 2^31 - 1",
+    "difficulty": "Hard",
+    "param_a": 1.57,
+    "param_b": 0.941,
+    "param_c": 0.116
+  },
+  {
+    "id": 131,
+    "question": "Kiểu TINYINT có phạm vi giá trị là gì?",
+    "options": [
+      "Từ 0 đến 255",
+      "Từ -2^31 đến 2^31 - 1",
+      "Từ -2^15 đến 2^15 - 1",
+      "Từ -2^63 đến 2^63 - 1"
+    ],
+    "answer": "Từ 0 đến 255",
+    "difficulty": "Hard",
+    "param_a": 1.983,
+    "param_b": 1.61,
+    "param_c": 0.111
+  },
+  {
+    "id": 132,
+    "question": "Kiểu BIT có thể nhận những giá trị nào?",
+    "options": [
+      "0 hoặc 1",
+      "True hoặc False",
+      "NULL hoặc không NULL",
+      "Bất kỳ số nguyên nào"
+    ],
+    "answer": "0 hoặc 1",
+    "difficulty": "Hard",
+    "param_a": 2.493,
+    "param_b": 2.327,
+    "param_c": 0.081
+  },
+  {
+    "id": 133,
+    "question": "Kiểu DATETIME có độ chính xác đến mức nào?",
+    "options": ["Phần trăm của giây", "Phút", "Giờ", "Ngày"],
+    "answer": "Phần trăm của giây",
+    "difficulty": "Hard",
+    "param_a": 2.475,
+    "param_b": 1.972,
+    "param_c": 0.109
+  },
+  {
+    "id": 134,
+    "question": "Kiểu SMALLDATETIME có độ chính xác đến mức nào?",
+    "options": ["Phút", "Phần trăm của giây", "Giờ", "Ngày"],
+    "answer": "Phút",
+    "difficulty": "Hard",
+    "param_a": 2.373,
+    "param_b": 1.111,
+    "param_c": 0.07
+  },
+  {
+    "id": 135,
+    "question": "Kiểu DECIMAL(p,s) và NUMERIC(p,s) được dùng để định nghĩa kiểu số với đặc điểm gì?",
+    "options": [
+      "Độ chính xác cố định",
+      "Số nguyên có dấu",
+      "Số thực dấu phẩy động",
+      "Giá trị tiền tệ"
+    ],
+    "answer": "Độ chính xác cố định",
+    "difficulty": "Hard",
+    "param_a": 1.781,
+    "param_b": 2.318,
+    "param_c": 0.072
+  },
+  {
+    "id": 136,
+    "question": "Kiểu MONEY được dùng để lưu trữ dữ liệu loại gì?",
+    "options": ["Tiền tệ", "Ngày giờ", "Chuỗi ký tự", "Dữ liệu nhị phân"],
+    "answer": "Tiền tệ",
+    "difficulty": "Hard",
+    "param_a": 2.404,
+    "param_b": 1.077,
+    "param_c": 0.1
+  },
+  {
+    "id": 137,
+    "question": "Kích thước tối đa của dữ liệu kiểu IMAGE là bao nhiêu bytes?",
+    "options": [
+      "2,147,483,647 bytes",
+      "8000 bytes",
+      "255 bytes",
+      "65,535 bytes"
+    ],
+    "answer": "2,147,483,647 bytes",
+    "difficulty": "Hard",
+    "param_a": 2.318,
+    "param_b": 1.486,
+    "param_c": 0.081
+  },
+  {
+    "id": 138,
+    "question": "Kích thước tối đa của dữ liệu kiểu TEXT là bao nhiêu ký tự?",
+    "options": [
+      "2,147,483,647 ký tự",
+      "8000 ký tự",
+      "255 ký tự",
+      "65,535 ký tự"
+    ],
+    "answer": "2,147,483,647 ký tự",
+    "difficulty": "Hard",
+    "param_a": 1.742,
+    "param_b": 1.781,
+    "param_c": 0.094
+  },
+  {
+    "id": 139,
+    "question": "Kiểu dữ liệu nào dùng để lưu trữ chuỗi lớn và hỗ trợ UNICODE với độ dài tối đa 1,073,741,823 ký tự?",
+    "options": ["NTEXT", "TEXT", "NVARCHAR", "VARCHAR"],
+    "answer": "NTEXT",
+    "difficulty": "Hard",
+    "param_a": 2.077,
+    "param_b": 0.91,
+    "param_c": 0.108
+  },
+  {
+    "id": 140,
+    "question": "Trong khai báo `HSLUONG DECIMAL(4,2)`, số `4` và `2` có ý nghĩa gì?",
+    "options": [
+      "4 là tổng số chữ số (precision), 2 là số chữ số thập phân (scale)",
+      "4 là số chữ số thập phân, 2 là tổng số chữ số",
+      "4 là số ký tự tối đa, 2 là số lượng dòng",
+      "4 là chiều rộng của trường, 2 là độ cao của trường"
+    ],
+    "answer": "4 là tổng số chữ số (precision), 2 là số chữ số thập phân (scale)",
+    "difficulty": "Hard",
+    "param_a": 1.65,
+    "param_b": 1.226,
+    "param_c": 0.081
+  },
+  {
+    "id": 141,
+    "question": "Trong khai báo `MANV NVARCHAR(10) NOT NULL`, `NOT NULL` có ý nghĩa gì?",
+    "options": [
+      "Cột này không được phép chứa giá trị NULL",
+      "Cột này chỉ chấp nhận giá trị số nguyên",
+      "Cột này phải chứa giá trị rỗng",
+      "Cột này không thể được cập nhật sau khi tạo"
+    ],
+    "answer": "Cột này phải chứa giá trị rỗng",
+    "difficulty": "Hard",
+    "param_a": 1.81,
+    "param_b": 1.77,
+    "param_c": 0.082
+  },
+  {
+    "id": 142,
+    "question": "Kiểu dữ liệu nào được sử dụng để lưu trữ dữ liệu nhị phân với độ dài cố định (tối đa 8000 bytes)?",
+    "options": ["BINARY", "VARBINARY", "IMAGE", "TEXT"],
+    "answer": "VARBINARY",
+    "difficulty": "Hard",
+    "param_a": 1.7,
+    "param_b": 2.149,
+    "param_c": 0.086
+  },
+  {
+    "id": 143,
+    "question": "Phạm vi giá trị của kiểu SMALLINT là bao nhiêu?",
+    "options": [
+      "Từ -2^15 đến 2^15 - 1",
+      "Từ -2^31 đến 2^31 - 1",
+      "Từ 0 đến 255",
+      "Từ -2^63 đến 2^63 - 1"
+    ],
+    "answer": "Từ -2^15 đến 2^15 - 1",
+    "difficulty": "Hard",
+    "param_a": 2.457,
+    "param_b": 0.973,
+    "param_c": 0.098
+  },
+  {
+    "id": 144,
+    "question": "Phạm vi giá trị của kiểu BIGINT là bao nhiêu?",
+    "options": [
+      "Từ -2^63 đến 2^63-1",
+      "Từ -2^31 đến 2^31 - 1",
+      "Từ 0 đến 255",
+      "Từ -2^15 đến 2^15 - 1"
+    ],
+    "answer": "Từ -2^63 đến 2^63-1",
+    "difficulty": "Hard",
+    "param_a": 1.733,
+    "param_b": 1.061,
+    "param_c": 0.112
+  },
+  {
+    "id": 145,
+    "question": "Kiểu dữ liệu FLOAT dùng cho loại số nào và có phạm vi giá trị ra sao?",
+    "options": [
+      "Số thực có giá trị từ -1.79E+308 đến 1.79E+308",
+      "Số nguyên có giá trị từ -2^31 đến 2^31 - 1",
+      "Số thực có độ chính xác cố định",
+      "Số có giá trị từ 0 đến 255"
+    ],
+    "answer": "Số thực có giá trị từ -1.79E+308 đến 1.79E+308",
+    "difficulty": "Hard",
+    "param_a": 2.032,
+    "param_b": 1.02,
+    "param_c": 0.067
+  },
+  {
+    "id": 146,
+    "question": "Kiểu dữ liệu REAL dùng cho loại số nào và có phạm vi giá trị ra sao?",
+    "options": [
+      "Số thực có giá trị từ -3.40E + 38 đến 3.40E + 38",
+      "Số nguyên có giá trị từ -2^31 đến 2^31 - 1",
+      "Số thực có độ chính xác cố định",
+      "Số có giá trị từ 0 đến 255"
+    ],
+    "answer": "Số thực có giá trị từ -3.40E + 38 đến 3.40E + 38",
+    "difficulty": "Hard",
+    "param_a": 1.674,
+    "param_b": 2.483,
+    "param_c": 0.055
+  },
+  {
+    "id": 147,
+    "question": "Giá trị NULL trong cơ sở dữ liệu quan hệ biểu diễn cho điều gì?",
+    "options": [
+      "Giá trị không xác định được",
+      "Giá trị bằng 0",
+      "Chuỗi ký tự rỗng",
+      "Giá trị mặc định của hệ thống"
+    ],
+    "answer": "Giá trị không xác định được",
+    "difficulty": "Hard",
+    "param_a": 1.858,
+    "param_b": 1.607,
+    "param_c": 0.076
+  },
+  {
+    "id": 148,
+    "question": "Một trong những nguyên nhân khiến một giá trị không xác định được xuất hiện trong CSDL là gì?",
+    "options": [
+      "Giá trị đó có tồn tại nhưng không biết",
+      "Giá trị đó luôn luôn bằng 0",
+      "Giá trị đó là một chuỗi rỗng",
+      "Giá trị đó đã được xác định rõ ràng"
+    ],
+    "answer": "Giá trị đó có tồn tại nhưng không biết",
+    "difficulty": "Hard",
+    "param_a": 2.429,
+    "param_b": 2.127,
+    "param_c": 0.098
+  },
+  {
+    "id": 149,
+    "question": "Nguyên nhân \u0027Tại một thời điểm nào đó giá trị chưa có nhưng rồi có thể sẽ có\u0027 dẫn đến việc sử dụng giá trị nào trong CSDL?",
+    "options": ["NULL", "0", "Chuỗi rỗng", "Giá trị mặc định"],
+    "answer": "NULL",
+    "difficulty": "Hard",
+    "param_a": 2.042,
+    "param_b": 2.395,
+    "param_c": 0.099
+  },
+  {
+    "id": 150,
+    "question": "Giá trị NULL có nên bị nhầm lẫn với chuỗi rỗng không?",
+    "options": [
+      "Không, đây là giá trị đặc biệt và không nên nhầm lẫn",
+      "Có, chúng hoàn toàn giống nhau",
+      "Chỉ khi kiểu dữ liệu là NVARCHAR",
+      "Chỉ khi giá trị không tồn tại"
+    ],
+    "answer": "Không, đây là giá trị đặc biệt và không nên nhầm lẫn",
+    "difficulty": "Hard",
+    "param_a": 2.022,
+    "param_b": 1.84,
+    "param_c": 0.106
+  }
+]
